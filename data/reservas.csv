@@ -1,0 +1,1001 @@
+id_reservacion;fecha_reserva;fecha_check_in;noches;invitados;tipo_cuarto;plan_de_comidas;peticiones_especiales;canal_de_reserva;dias_antelacion;nacionalidad_cliente;huesped_repetido;precio_total;cancelado
+1;17/08/2022;27/11/2022;4;5;standard;Almuerzo o Cena;0;agencia;102;France;0;2000.0;0
+2;13/10/2022;11/02/2023;3;3;suite;ninguno;1;pagina web;121;Australia;0;2250.0;0
+3;14/05/2024;18/03/2025;2;4;standard;ninguno;1;pagina web;308;France;1;880.0;0
+4;22/04/2023;29/02/2024;6;5;suite;ninguno;1;agencia;313;China;0;7500.0;0
+5;9/05/2024;12/11/2024;14;3;standard;Todas las comidas;2;telefono;187;USA;1;4620.0;0
+6;23/11/2022;17/10/2023;7;2;suite;Todas las comidas;3;telefono;328;Spain;0;3500.0;0
+7;15/11/2022;5/08/2023;3;1;standard;Almuerzo o Cena;0;pagina web;263;UK;0;300.0;0
+8;18/02/2024;11/04/2024;10;4;standard;Almuerzo o Cena;0;telefono;53;Australia;1;4400.0;0
+9;26/06/2023;4/12/2023;10;4;standard;Todas las comidas;2;pagina web;161;Brazil;0;4000.0;0
+10;11/06/2022;2/04/2023;5;5;suite;Almuerzo o Cena;0;telefono;295;Australia;1;6875.0;0
+11;29/01/2023;7/10/2023;12;4;suite;ninguno;0;pagina web;251;France;0;12000.0;0
+12;16/08/2023;25/07/2024;7;1;standard;Desayuno;1;pagina web;344;Brazil;0;700.0;0
+13;24/07/2023;12/10/2023;8;3;deluxe;Almuerzo o Cena;3;agencia;80;Canada;1;3960.0;1
+14;29/12/2023;21/09/2024;2;1;standard;Almuerzo o Cena;0;pagina web;267;Australia;0;200.0;0
+15;17/12/2022;25/03/2023;12;3;suite;Desayuno;1;agencia;98;India;1;9900.0;0
+16;17/02/2024;21/02/2024;10;3;deluxe;Desayuno;1;telefono;4;USA;0;4500.0;0
+17;15/04/2023;16/06/2023;7;1;standard;Almuerzo o Cena;0;app;62;Spain;0;700.0;1
+18;16/05/2022;1/01/2023;13;3;standard;Almuerzo o Cena;0;agencia;230;India;1;4290.0;0
+19;21/03/2024;18/11/2024;6;4;suite;Todas las comidas;4;agencia;242;Spain;0;6000.0;1
+20;13/10/2022;8/09/2023;10;4;standard;Almuerzo o Cena;0;app;330;Australia;1;4400.0;0
+21;28/03/2024;4/01/2025;14;1;deluxe;Desayuno;2;agencia;282;China;0;2100.0;0
+22;7/10/2024;20/03/2025;1;3;standard;ninguno;0;pagina web;164;Germany;0;300.0;0
+23;24/11/2022;2/05/2023;8;1;suite;Todas las comidas;1;pagina web;159;Brazil;0;2000.0;0
+24;21/02/2024;11/12/2024;2;3;suite;Todas las comidas;0;telefono;294;China;0;1500.0;0
+25;24/01/2022;16/05/2022;2;2;suite;ninguno;1;telefono;112;Canada;0;1000.0;0
+26;17/08/2022;20/12/2022;2;5;deluxe;Todas las comidas;2;agencia;125;India;0;1500.0;0
+27;7/01/2022;9/05/2022;1;5;suite;Almuerzo o Cena;2;agencia;122;China;0;1250.0;0
+28;6/08/2022;7/12/2022;11;5;suite;Almuerzo o Cena;1;agencia;123;Germany;0;13750.0;0
+29;5/02/2024;30/06/2024;4;4;standard;ninguno;2;telefono;146;India;1;1760.0;0
+30;9/02/2022;9/07/2022;14;2;standard;Almuerzo o Cena;0;telefono;150;France;0;2800.0;0
+31;29/04/2022;27/06/2022;1;2;standard;ninguno;4;pagina web;59;India;0;200.0;0
+32;22/05/2022;15/12/2022;3;4;suite;Desayuno;3;agencia;207;India;0;3000.0;1
+33;5/12/2022;9/11/2023;14;3;deluxe;Todas las comidas;1;agencia;339;China;1;6930.0;0
+34;16/02/2023;19/01/2024;2;3;suite;Almuerzo o Cena;1;app;337;Canada;0;1500.0;0
+35;16/06/2024;19/03/2025;4;3;suite;Todas las comidas;2;pagina web;276;France;0;3000.0;0
+36;6/04/2023;29/11/2023;14;5;standard;Almuerzo o Cena;2;pagina web;237;Australia;0;7000.0;0
+37;17/04/2023;27/02/2024;3;4;suite;Desayuno;0;pagina web;316;UK;0;3000.0;0
+38;1/05/2022;6/12/2022;14;5;standard;ninguno;0;pagina web;219;Canada;1;7700.0;0
+39;26/05/2022;1/07/2022;8;5;suite;Desayuno;3;telefono;36;India;0;10000.0;0
+40;15/03/2023;22/08/2023;3;2;suite;Desayuno;2;app;160;France;0;1500.0;0
+41;26/08/2024;9/06/2025;6;2;deluxe;Desayuno;0;pagina web;287;UK;0;1800.0;0
+42;1/06/2024;12/09/2024;1;1;deluxe;Todas las comidas;1;app;103;India;0;150.0;0
+43;21/04/2022;10/04/2023;2;1;suite;ninguno;1;pagina web;354;Brazil;0;500.0;0
+44;26/11/2023;15/12/2023;1;4;standard;Desayuno;1;agencia;19;France;0;400.0;0
+45;7/07/2024;13/06/2025;3;1;standard;Todas las comidas;0;agencia;341;Spain;1;330.0;0
+46;5/08/2024;1/10/2024;6;1;standard;ninguno;0;app;57;China;1;660.0;0
+47;20/07/2022;28/10/2022;1;5;standard;ninguno;0;pagina web;100;France;1;550.0;0
+48;7/12/2022;25/08/2023;13;4;deluxe;Todas las comidas;1;app;261;France;0;7800.0;0
+49;1/04/2024;2/08/2024;10;3;standard;Desayuno;1;app;123;USA;0;3000.0;0
+50;10/03/2024;24/10/2024;10;5;deluxe;Todas las comidas;0;telefono;228;Brazil;0;7500.0;0
+51;23/09/2024;29/01/2025;10;2;standard;Desayuno;0;telefono;128;France;0;2000.0;0
+52;30/04/2022;16/06/2022;9;5;suite;ninguno;0;telefono;47;USA;1;12375.0;0
+53;13/04/2022;20/06/2022;6;5;suite;Todas las comidas;1;agencia;68;USA;0;7500.0;0
+54;6/11/2024;9/05/2025;13;4;standard;Desayuno;0;pagina web;184;Australia;0;5200.0;1
+55;20/05/2022;9/12/2022;10;2;suite;Desayuno;1;app;203;UK;0;5000.0;0
+56;20/05/2023;11/06/2023;10;2;suite;ninguno;2;pagina web;22;Brazil;0;5000.0;1
+57;6/12/2024;11/03/2025;1;5;deluxe;Almuerzo o Cena;4;agencia;95;Canada;0;750.0;0
+58;4/05/2023;28/10/2023;3;4;deluxe;Todas las comidas;0;agencia;177;Spain;1;1980.0;0
+59;25/07/2024;18/04/2025;3;1;deluxe;ninguno;2;pagina web;267;India;0;450.0;0
+60;24/07/2022;2/04/2023;3;2;standard;Desayuno;1;telefono;252;Germany;0;600.0;0
+61;16/12/2023;14/03/2024;14;2;standard;Desayuno;0;telefono;89;Spain;0;2800.0;0
+62;20/11/2022;13/03/2023;13;3;deluxe;Almuerzo o Cena;3;pagina web;113;China;0;5850.0;0
+63;6/09/2023;15/03/2024;3;1;suite;ninguno;1;agencia;191;Spain;0;750.0;0
+64;25/08/2022;22/01/2023;14;5;standard;Desayuno;0;telefono;150;Spain;0;7000.0;0
+65;8/03/2023;25/02/2024;9;1;suite;Almuerzo o Cena;1;agencia;354;Spain;0;2250.0;0
+66;1/11/2024;19/11/2024;1;4;deluxe;Almuerzo o Cena;0;pagina web;18;UK;1;660.0;0
+67;17/05/2024;24/02/2025;14;4;deluxe;ninguno;1;pagina web;283;Canada;0;8400.0;0
+68;25/09/2022;19/10/2022;4;3;suite;Almuerzo o Cena;0;agencia;24;India;1;3300.0;0
+69;25/05/2024;2/07/2024;13;5;suite;ninguno;1;pagina web;38;UK;0;16250.0;0
+70;2/11/2022;4/06/2023;13;3;suite;ninguno;4;telefono;214;Australia;1;10725.0;0
+71;31/10/2022;16/04/2023;10;1;deluxe;Desayuno;2;pagina web;167;Spain;0;1500.0;1
+72;17/01/2024;15/01/2025;1;4;standard;Almuerzo o Cena;0;agencia;364;France;1;440.0;0
+73;30/07/2022;17/05/2023;6;4;deluxe;Todas las comidas;0;agencia;291;France;0;3600.0;0
+74;29/11/2022;27/02/2023;10;2;standard;Todas las comidas;0;pagina web;90;Germany;0;2000.0;0
+75;12/11/2023;10/07/2024;12;2;deluxe;Desayuno;3;telefono;241;Germany;0;3600.0;0
+76;10/08/2022;16/02/2023;12;1;deluxe;ninguno;0;app;190;France;0;1800.0;0
+77;13/02/2023;11/04/2023;12;5;deluxe;Almuerzo o Cena;1;telefono;57;France;1;9900.0;0
+78;2/04/2023;21/10/2023;12;5;standard;Desayuno;0;app;202;Canada;0;6000.0;0
+79;25/07/2023;9/09/2023;9;1;standard;Almuerzo o Cena;1;telefono;46;China;0;900.0;0
+80;29/03/2024;19/08/2024;7;1;suite;Almuerzo o Cena;2;pagina web;143;UK;0;1750.0;0
+81;19/06/2023;26/06/2023;10;4;standard;Almuerzo o Cena;1;pagina web;7;UK;0;4000.0;0
+82;8/06/2024;30/05/2025;9;4;deluxe;Almuerzo o Cena;3;app;356;Australia;1;5940.0;0
+83;13/11/2024;28/12/2024;3;5;standard;Todas las comidas;2;agencia;45;Spain;1;1650.0;0
+84;1/04/2022;11/01/2023;2;3;suite;Todas las comidas;0;pagina web;285;China;0;1500.0;0
+85;8/02/2023;13/04/2023;2;1;deluxe;Todas las comidas;1;pagina web;64;Canada;0;300.0;0
+86;5/10/2023;29/03/2024;13;1;suite;ninguno;1;telefono;176;China;0;3250.0;0
+87;26/09/2023;1/10/2023;12;1;suite;Todas las comidas;2;telefono;5;Brazil;0;3000.0;0
+88;29/08/2023;17/03/2024;10;3;suite;Desayuno;0;agencia;201;Brazil;0;7500.0;0
+89;16/02/2024;6/04/2024;13;5;suite;Desayuno;0;telefono;50;Brazil;1;17875.0;0
+90;1/01/2022;3/02/2022;12;2;deluxe;Almuerzo o Cena;1;agencia;33;Brazil;1;3960.0;0
+91;22/10/2023;14/12/2023;12;5;deluxe;Todas las comidas;0;app;53;France;0;9000.0;0
+92;12/11/2024;24/07/2025;7;5;deluxe;Desayuno;2;pagina web;254;Spain;0;5250.0;0
+93;21/11/2024;10/09/2025;2;2;suite;Almuerzo o Cena;1;pagina web;293;France;0;1000.0;0
+94;28/09/2023;2/06/2024;6;1;standard;Desayuno;1;agencia;248;USA;0;600.0;1
+95;5/04/2022;15/08/2022;13;4;standard;Todas las comidas;2;pagina web;132;India;0;5200.0;0
+96;28/04/2024;14/01/2025;5;2;suite;Desayuno;0;app;261;India;0;2500.0;0
+97;29/03/2024;17/07/2024;9;3;standard;Desayuno;0;pagina web;110;UK;0;2700.0;0
+98;20/05/2024;19/11/2024;9;3;standard;Desayuno;3;app;183;USA;0;2700.0;0
+99;26/05/2023;25/08/2023;10;5;standard;Todas las comidas;0;agencia;91;India;0;5000.0;0
+100;23/12/2024;3/01/2025;10;2;suite;Almuerzo o Cena;0;app;11;Australia;0;5000.0;0
+101;30/10/2024;7/08/2025;9;1;deluxe;Todas las comidas;1;agencia;281;India;0;1350.0;0
+102;10/07/2024;11/06/2025;10;4;deluxe;Desayuno;2;telefono;336;China;0;6000.0;0
+103;19/09/2024;20/04/2025;14;2;suite;Desayuno;2;telefono;213;India;0;7000.0;0
+104;8/06/2022;14/06/2022;3;3;suite;Almuerzo o Cena;1;agencia;6;Spain;0;2250.0;0
+105;19/11/2023;3/12/2023;9;5;deluxe;ninguno;0;agencia;14;Germany;0;6750.0;0
+106;19/04/2023;13/07/2023;10;4;deluxe;Desayuno;0;agencia;85;UK;0;6000.0;0
+107;29/04/2024;4/07/2024;9;5;deluxe;Almuerzo o Cena;1;app;66;Brazil;0;6750.0;0
+108;8/05/2022;29/12/2022;3;2;standard;Todas las comidas;0;app;235;Australia;0;600.0;0
+109;10/02/2022;23/09/2022;11;3;suite;Todas las comidas;2;app;225;USA;0;8250.0;0
+110;22/12/2023;11/04/2024;4;3;deluxe;Todas las comidas;0;app;111;China;1;1980.0;0
+111;28/03/2023;11/08/2023;7;3;deluxe;Desayuno;1;telefono;136;Brazil;1;3465.0;0
+112;21/09/2024;8/08/2025;4;4;standard;Todas las comidas;1;telefono;321;Brazil;1;1760.0;0
+113;5/12/2022;4/02/2023;9;2;deluxe;Desayuno;1;pagina web;61;Brazil;0;2700.0;0
+114;25/02/2022;16/01/2023;10;4;standard;Todas las comidas;1;agencia;325;India;0;4000.0;0
+115;8/01/2023;7/04/2023;14;5;standard;Almuerzo o Cena;2;app;89;Canada;0;7000.0;0
+116;10/03/2023;19/03/2023;5;2;deluxe;Almuerzo o Cena;1;telefono;9;Brazil;1;1650.0;0
+117;24/07/2023;1/11/2023;9;1;deluxe;Almuerzo o Cena;0;pagina web;100;India;0;1350.0;0
+118;9/02/2022;13/05/2022;1;5;suite;ninguno;2;telefono;93;France;0;1250.0;1
+119;21/05/2022;4/08/2022;3;3;suite;ninguno;2;pagina web;75;France;0;2250.0;0
+120;13/02/2023;29/09/2023;14;4;standard;Desayuno;0;agencia;228;Germany;0;5600.0;0
+121;27/08/2024;12/11/2024;10;4;suite;ninguno;0;agencia;77;India;0;10000.0;0
+122;9/06/2023;1/05/2024;7;3;deluxe;Desayuno;1;pagina web;327;Germany;0;3150.0;0
+123;30/09/2023;21/02/2024;1;2;standard;ninguno;2;telefono;144;Australia;0;200.0;1
+124;8/02/2024;4/08/2024;8;2;deluxe;Desayuno;0;pagina web;178;Australia;0;2400.0;0
+125;13/05/2023;29/12/2023;11;4;standard;Almuerzo o Cena;4;pagina web;230;Australia;0;4400.0;0
+126;26/03/2022;30/03/2022;11;2;deluxe;Todas las comidas;0;telefono;4;UK;1;3630.0;0
+127;2/11/2024;17/06/2025;13;4;suite;Almuerzo o Cena;1;pagina web;227;Brazil;0;13000.0;0
+128;30/09/2024;27/08/2025;13;2;standard;Todas las comidas;0;telefono;331;India;0;2600.0;0
+129;10/11/2022;18/08/2023;11;3;deluxe;Desayuno;0;telefono;281;Australia;0;4950.0;1
+130;17/09/2024;24/10/2024;6;2;deluxe;Todas las comidas;1;telefono;37;Canada;0;1800.0;0
+131;18/05/2023;5/09/2023;8;4;standard;Almuerzo o Cena;1;app;110;France;1;3520.0;0
+132;9/08/2024;28/05/2025;8;2;suite;Todas las comidas;1;telefono;292;USA;0;4000.0;0
+133;9/10/2024;31/07/2025;9;3;deluxe;Desayuno;1;app;295;France;1;4455.0;0
+134;28/12/2023;26/06/2024;7;1;deluxe;Almuerzo o Cena;0;telefono;181;Australia;0;1050.0;0
+135;20/07/2023;15/12/2023;9;5;suite;ninguno;0;agencia;148;UK;1;12375.0;0
+136;10/05/2023;24/02/2024;4;1;suite;Todas las comidas;3;app;290;China;1;1100.0;0
+137;8/05/2023;5/05/2024;11;3;suite;Todas las comidas;0;app;363;India;0;8250.0;0
+138;5/02/2022;14/01/2023;1;1;standard;Almuerzo o Cena;1;agencia;343;Brazil;0;100.0;0
+139;14/05/2023;1/07/2023;7;1;deluxe;Almuerzo o Cena;1;app;48;China;0;1050.0;0
+140;23/12/2024;29/06/2025;8;1;deluxe;Todas las comidas;0;telefono;188;Canada;0;1200.0;0
+141;18/07/2024;13/02/2025;14;5;deluxe;Almuerzo o Cena;1;telefono;210;France;1;11550.0;0
+142;5/09/2022;19/05/2023;14;3;suite;Desayuno;1;telefono;256;UK;0;10500.0;0
+143;15/01/2023;29/06/2023;3;4;standard;Desayuno;0;app;165;Spain;1;1320.0;1
+144;10/12/2024;23/09/2025;10;2;suite;Almuerzo o Cena;4;pagina web;287;France;1;5500.0;0
+145;30/08/2023;7/07/2024;7;3;standard;Almuerzo o Cena;0;agencia;312;Spain;0;2100.0;0
+146;29/01/2022;23/03/2022;9;5;suite;Desayuno;0;telefono;53;USA;0;11250.0;0
+147;22/04/2022;6/02/2023;8;3;suite;Almuerzo o Cena;2;agencia;290;India;0;6000.0;0
+148;30/07/2022;5/08/2022;10;1;standard;Almuerzo o Cena;0;app;6;India;0;1000.0;0
+149;21/06/2024;26/07/2024;13;4;deluxe;Desayuno;3;pagina web;35;Spain;1;8580.0;0
+150;5/09/2024;1/01/2025;12;4;standard;ninguno;1;app;118;India;0;4800.0;0
+151;1/06/2022;21/05/2023;4;2;suite;ninguno;1;agencia;354;Germany;1;2200.0;0
+152;15/09/2023;16/04/2024;1;2;standard;Desayuno;0;pagina web;214;China;0;200.0;0
+153;2/05/2024;24/12/2024;9;1;suite;Desayuno;0;app;236;India;1;2475.0;1
+154;25/06/2024;23/07/2024;13;2;deluxe;Todas las comidas;0;telefono;28;Australia;0;3900.0;1
+155;4/05/2022;9/04/2023;10;4;suite;ninguno;1;agencia;340;France;0;10000.0;0
+156;26/06/2023;9/09/2023;7;5;suite;ninguno;0;agencia;75;France;0;8750.0;1
+157;22/12/2022;4/05/2023;11;2;suite;ninguno;2;agencia;133;USA;1;6050.0;0
+158;16/04/2024;22/10/2024;10;2;deluxe;Todas las comidas;0;telefono;189;USA;0;3000.0;0
+159;20/04/2023;5/02/2024;3;2;deluxe;Almuerzo o Cena;0;app;291;UK;1;990.0;0
+160;24/04/2023;4/10/2023;1;3;deluxe;Desayuno;0;app;163;UK;0;450.0;0
+161;6/04/2023;25/07/2023;8;5;suite;Desayuno;1;telefono;110;Germany;0;10000.0;0
+162;27/05/2022;25/01/2023;11;1;standard;Desayuno;1;telefono;243;Australia;0;1100.0;0
+163;15/08/2023;26/10/2023;9;1;deluxe;ninguno;1;app;72;Spain;0;1350.0;0
+164;4/04/2024;19/01/2025;3;2;deluxe;Todas las comidas;2;app;290;UK;0;900.0;0
+165;23/03/2022;5/05/2022;11;3;deluxe;Almuerzo o Cena;3;telefono;43;USA;0;4950.0;1
+166;7/07/2022;10/06/2023;8;5;standard;ninguno;2;telefono;338;Australia;1;4400.0;1
+167;24/03/2022;16/12/2022;11;2;standard;Todas las comidas;0;app;267;Spain;0;2200.0;0
+168;7/01/2023;22/01/2023;7;1;suite;Todas las comidas;0;app;15;UK;0;1750.0;1
+169;20/08/2024;16/05/2025;5;1;deluxe;Todas las comidas;0;telefono;269;Canada;0;750.0;0
+170;3/08/2022;23/10/2022;14;4;standard;Almuerzo o Cena;1;app;81;India;1;6160.0;0
+171;14/08/2023;19/01/2024;8;3;suite;Todas las comidas;1;pagina web;158;India;1;6600.0;0
+172;30/06/2022;29/12/2022;7;4;deluxe;Almuerzo o Cena;2;telefono;182;UK;0;4200.0;0
+173;7/04/2024;14/09/2024;13;2;suite;ninguno;1;app;160;Brazil;0;6500.0;1
+174;22/04/2022;28/12/2022;7;5;standard;Almuerzo o Cena;4;app;250;India;0;3500.0;0
+175;16/04/2022;16/12/2022;12;1;standard;Almuerzo o Cena;1;agencia;244;Spain;0;1200.0;0
+176;16/06/2024;9/06/2025;4;5;suite;Todas las comidas;1;pagina web;358;USA;0;5000.0;0
+177;6/05/2023;24/03/2024;2;5;suite;Desayuno;0;telefono;323;China;0;2500.0;1
+178;29/01/2022;11/04/2022;1;1;suite;Todas las comidas;1;pagina web;72;France;1;275.0;0
+179;21/08/2022;6/03/2023;7;3;deluxe;ninguno;3;agencia;197;India;0;3150.0;0
+180;21/08/2023;25/06/2024;5;3;suite;Almuerzo o Cena;1;app;309;India;0;3750.0;0
+181;25/08/2024;22/04/2025;10;3;standard;Todas las comidas;3;agencia;240;Brazil;0;3000.0;0
+182;26/01/2023;23/09/2023;13;3;suite;Desayuno;1;pagina web;240;Spain;0;9750.0;0
+183;29/04/2024;5/10/2024;3;5;deluxe;Almuerzo o Cena;0;pagina web;159;Spain;0;2250.0;0
+184;4/09/2023;25/08/2024;2;3;suite;Todas las comidas;1;agencia;356;India;0;1500.0;1
+185;18/09/2024;1/05/2025;12;2;deluxe;Almuerzo o Cena;2;app;225;India;0;3600.0;0
+186;22/10/2023;28/11/2023;8;3;standard;Desayuno;1;app;37;France;0;2400.0;0
+187;21/04/2024;29/01/2025;5;5;standard;Almuerzo o Cena;2;app;283;Brazil;0;2500.0;0
+188;1/03/2024;25/04/2024;8;2;suite;Desayuno;2;app;55;USA;0;4000.0;1
+189;16/09/2022;16/12/2022;1;3;suite;Almuerzo o Cena;3;pagina web;91;India;0;750.0;0
+190;24/07/2022;27/01/2023;7;5;suite;Todas las comidas;2;pagina web;187;Germany;1;9625.0;0
+191;19/04/2024;16/04/2025;5;2;suite;Desayuno;2;pagina web;362;India;0;2500.0;0
+192;27/06/2023;11/08/2023;11;1;deluxe;Todas las comidas;1;pagina web;45;Canada;0;1650.0;0
+193;28/12/2024;27/12/2025;3;3;deluxe;Almuerzo o Cena;3;app;364;China;0;1350.0;1
+194;15/03/2022;17/12/2022;4;4;suite;ninguno;1;agencia;277;Spain;0;4000.0;0
+195;11/04/2023;20/10/2023;6;2;suite;ninguno;0;app;192;UK;1;3300.0;1
+196;25/07/2022;15/01/2023;13;4;deluxe;Desayuno;1;telefono;174;USA;0;7800.0;0
+197;5/04/2022;7/05/2022;6;3;deluxe;ninguno;0;telefono;32;Canada;0;2700.0;0
+198;7/02/2024;19/09/2024;13;4;deluxe;Desayuno;1;agencia;225;China;0;7800.0;0
+199;23/04/2024;26/09/2024;11;4;suite;Desayuno;2;agencia;156;Germany;0;11000.0;1
+200;11/06/2022;1/02/2023;8;4;suite;Todas las comidas;5;agencia;235;India;0;8000.0;0
+201;21/10/2022;4/11/2022;2;5;standard;Todas las comidas;0;telefono;14;India;1;1100.0;0
+202;7/06/2023;6/03/2024;12;3;suite;ninguno;1;app;273;Spain;1;9900.0;0
+203;20/11/2022;6/02/2023;11;2;standard;Todas las comidas;2;telefono;78;Australia;0;2200.0;1
+204;5/09/2023;20/10/2023;9;1;suite;Todas las comidas;1;telefono;45;India;0;2250.0;0
+205;11/09/2023;25/07/2024;6;5;standard;Todas las comidas;0;app;318;UK;0;3000.0;0
+206;1/05/2023;21/11/2023;1;5;deluxe;Almuerzo o Cena;0;telefono;204;Spain;0;750.0;0
+207;14/02/2022;19/05/2022;6;3;suite;Todas las comidas;3;telefono;94;USA;0;4500.0;0
+208;11/04/2022;25/06/2022;9;4;suite;Todas las comidas;2;telefono;75;France;0;9000.0;0
+209;23/12/2023;6/10/2024;9;5;standard;Desayuno;0;telefono;288;Germany;1;4950.0;0
+210;18/07/2022;28/10/2022;2;2;suite;ninguno;2;telefono;102;India;0;1000.0;0
+211;10/03/2022;20/01/2023;3;3;suite;Almuerzo o Cena;0;agencia;316;UK;1;2475.0;0
+212;28/08/2023;7/10/2023;2;4;deluxe;Todas las comidas;3;agencia;40;France;1;1320.0;0
+213;28/09/2022;20/12/2022;4;2;suite;Almuerzo o Cena;2;telefono;83;Germany;0;2000.0;0
+214;11/06/2023;22/06/2023;7;4;deluxe;Almuerzo o Cena;0;telefono;11;UK;1;4620.0;0
+215;17/08/2024;10/10/2024;14;4;standard;Desayuno;2;agencia;54;Brazil;0;5600.0;0
+216;20/01/2024;17/08/2024;6;5;standard;Todas las comidas;3;pagina web;210;Spain;0;3000.0;0
+217;11/09/2022;5/04/2023;1;4;deluxe;Almuerzo o Cena;0;telefono;206;Australia;1;660.0;0
+218;20/02/2024;14/03/2024;4;5;suite;Almuerzo o Cena;0;pagina web;23;France;0;5000.0;1
+219;23/08/2024;21/01/2025;2;1;standard;Almuerzo o Cena;1;agencia;151;UK;0;200.0;0
+220;8/08/2024;23/03/2025;2;2;suite;Almuerzo o Cena;3;app;227;UK;0;1000.0;0
+221;14/10/2022;31/10/2022;8;5;standard;ninguno;1;telefono;17;India;0;4000.0;1
+222;26/08/2022;20/11/2022;10;4;standard;Desayuno;1;agencia;86;Brazil;0;4000.0;0
+223;18/07/2024;27/08/2024;14;4;deluxe;Todas las comidas;1;agencia;40;Brazil;0;8400.0;0
+224;22/07/2022;9/03/2023;6;1;deluxe;Todas las comidas;2;telefono;230;USA;0;900.0;0
+225;29/01/2024;10/07/2024;13;3;standard;Todas las comidas;2;app;163;France;0;3900.0;0
+226;13/01/2024;7/01/2025;1;5;standard;Almuerzo o Cena;0;telefono;360;USA;0;500.0;0
+227;26/03/2024;28/05/2024;6;4;deluxe;Desayuno;1;pagina web;63;India;0;3600.0;0
+228;7/07/2022;7/05/2023;1;4;suite;Desayuno;2;pagina web;304;USA;0;1000.0;0
+229;15/11/2023;13/10/2024;2;1;standard;Desayuno;2;agencia;333;UK;0;200.0;0
+230;1/03/2023;31/10/2023;11;5;suite;Desayuno;0;agencia;244;Canada;0;13750.0;0
+231;30/10/2022;1/08/2023;5;2;suite;ninguno;1;telefono;275;Germany;1;2750.0;0
+232;24/09/2022;27/03/2023;7;3;suite;Almuerzo o Cena;1;agencia;184;UK;0;5250.0;0
+233;22/02/2022;19/12/2022;4;2;standard;ninguno;0;telefono;300;France;0;800.0;1
+234;26/10/2023;2/03/2024;7;5;standard;Desayuno;2;telefono;128;USA;0;3500.0;0
+235;17/09/2022;22/04/2023;11;2;suite;Todas las comidas;0;pagina web;217;UK;0;5500.0;0
+236;2/09/2024;1/07/2025;8;1;deluxe;Almuerzo o Cena;0;pagina web;302;India;1;1320.0;0
+237;28/10/2024;12/08/2025;1;3;standard;ninguno;3;telefono;288;India;0;300.0;0
+238;5/03/2022;12/09/2022;6;1;standard;Todas las comidas;3;app;191;Brazil;0;600.0;0
+239;10/08/2022;15/11/2022;13;4;deluxe;Todas las comidas;3;pagina web;97;UK;0;7800.0;0
+240;22/10/2023;29/09/2024;14;1;suite;Desayuno;0;pagina web;343;Germany;0;3500.0;0
+241;18/07/2023;7/12/2023;5;3;suite;Almuerzo o Cena;1;app;142;Australia;0;3750.0;0
+242;22/12/2024;2/04/2025;10;3;deluxe;Todas las comidas;2;app;101;UK;0;4500.0;0
+243;23/08/2022;31/05/2023;8;2;suite;Desayuno;1;app;281;India;0;4000.0;0
+244;13/04/2023;10/02/2024;5;4;deluxe;Almuerzo o Cena;1;app;303;Brazil;0;3000.0;0
+245;1/05/2024;29/04/2025;11;3;suite;ninguno;0;telefono;363;Brazil;0;8250.0;0
+246;3/10/2023;31/07/2024;5;4;suite;Almuerzo o Cena;2;telefono;302;Germany;0;5000.0;0
+247;29/08/2024;30/05/2025;2;5;standard;ninguno;1;pagina web;274;UK;0;1000.0;1
+248;3/06/2024;5/11/2024;3;2;standard;Almuerzo o Cena;2;agencia;155;China;0;600.0;0
+249;3/05/2022;20/01/2023;12;2;suite;Almuerzo o Cena;1;pagina web;262;Brazil;0;6000.0;0
+250;26/12/2023;18/10/2024;8;4;suite;Todas las comidas;1;pagina web;297;Spain;1;8800.0;0
+251;2/10/2023;22/03/2024;10;3;deluxe;ninguno;0;agencia;172;Germany;0;4500.0;0
+252;14/09/2024;21/04/2025;9;2;standard;ninguno;0;telefono;219;China;0;1800.0;0
+253;23/01/2024;26/05/2024;10;1;standard;Almuerzo o Cena;0;agencia;124;Brazil;0;1000.0;0
+254;23/02/2022;13/03/2022;4;4;suite;Almuerzo o Cena;3;pagina web;18;Germany;0;4000.0;0
+255;14/07/2023;31/08/2023;3;4;suite;Almuerzo o Cena;1;telefono;48;Canada;0;3000.0;0
+256;13/01/2022;4/06/2022;3;4;standard;Desayuno;0;app;142;UK;0;1200.0;0
+257;18/10/2022;2/01/2023;13;1;suite;ninguno;2;pagina web;76;China;0;3250.0;0
+258;17/03/2023;19/07/2023;7;1;deluxe;Todas las comidas;2;app;124;Canada;0;1050.0;0
+259;19/11/2022;30/12/2022;7;5;deluxe;Almuerzo o Cena;0;telefono;41;Australia;0;5250.0;1
+260;23/06/2022;3/09/2022;8;1;standard;Desayuno;0;agencia;72;Australia;0;800.0;0
+261;12/04/2022;30/05/2022;12;2;suite;ninguno;1;telefono;48;India;0;6000.0;0
+262;18/05/2024;3/12/2024;2;3;deluxe;Todas las comidas;1;app;199;Spain;0;900.0;0
+263;18/03/2023;18/10/2023;12;2;suite;ninguno;0;telefono;214;Brazil;1;6600.0;0
+264;16/08/2022;9/12/2022;8;4;deluxe;Todas las comidas;0;telefono;115;USA;1;5280.0;0
+265;28/03/2023;24/01/2024;9;2;deluxe;ninguno;0;pagina web;302;France;0;2700.0;0
+266;10/09/2023;1/02/2024;12;4;standard;Desayuno;1;telefono;144;Spain;0;4800.0;1
+267;3/11/2023;28/02/2024;5;4;standard;ninguno;3;app;117;Brazil;0;2000.0;0
+268;26/12/2022;13/08/2023;1;5;standard;Todas las comidas;3;agencia;230;China;0;500.0;0
+269;27/12/2023;1/03/2024;9;5;standard;Todas las comidas;0;pagina web;65;Brazil;0;4500.0;0
+270;8/02/2022;27/12/2022;4;2;deluxe;ninguno;1;telefono;322;Australia;1;1320.0;0
+271;29/05/2024;5/05/2025;12;5;suite;Todas las comidas;1;app;341;Spain;0;15000.0;0
+272;24/08/2022;10/06/2023;14;2;deluxe;ninguno;3;telefono;290;Germany;0;4200.0;0
+273;31/07/2024;4/10/2024;11;2;suite;Almuerzo o Cena;0;pagina web;65;Brazil;1;6050.0;0
+274;5/08/2022;27/04/2023;9;2;standard;Todas las comidas;0;app;265;China;1;1980.0;1
+275;11/06/2022;7/03/2023;1;5;deluxe;Almuerzo o Cena;0;telefono;269;France;1;825.0;0
+276;14/11/2023;2/04/2024;5;2;standard;ninguno;0;pagina web;140;China;0;1000.0;0
+277;10/11/2024;16/01/2025;13;4;standard;Almuerzo o Cena;1;telefono;67;Germany;0;5200.0;1
+278;29/04/2023;18/05/2023;2;5;standard;Desayuno;0;telefono;19;France;0;1000.0;0
+279;22/12/2022;1/09/2023;2;4;suite;Desayuno;0;pagina web;253;Germany;0;2000.0;0
+280;8/10/2024;30/06/2025;9;2;deluxe;Todas las comidas;1;telefono;265;Canada;0;2700.0;0
+281;6/11/2022;27/01/2023;9;3;deluxe;ninguno;0;app;82;India;0;4050.0;0
+282;13/09/2023;1/06/2024;12;1;deluxe;ninguno;3;telefono;262;China;0;1800.0;0
+283;1/06/2022;2/10/2022;6;2;deluxe;Todas las comidas;0;app;123;USA;1;1980.0;0
+284;27/04/2022;3/05/2022;11;4;deluxe;Almuerzo o Cena;1;pagina web;6;UK;0;6600.0;1
+285;4/11/2024;5/05/2025;2;3;deluxe;Todas las comidas;1;pagina web;182;India;0;900.0;0
+286;21/01/2023;26/03/2023;13;5;deluxe;Todas las comidas;2;agencia;64;USA;0;9750.0;0
+287;11/07/2024;14/01/2025;11;5;standard;Almuerzo o Cena;1;pagina web;187;China;0;5500.0;0
+288;20/12/2022;9/02/2023;12;2;standard;Desayuno;1;app;51;India;0;2400.0;0
+289;9/12/2024;29/12/2024;10;5;suite;Desayuno;0;telefono;20;Canada;0;12500.0;0
+290;3/08/2023;9/12/2023;2;4;deluxe;Todas las comidas;0;telefono;128;Australia;0;1200.0;1
+291;18/04/2022;5/12/2022;5;4;suite;Almuerzo o Cena;3;pagina web;231;Canada;0;5000.0;0
+292;13/07/2022;21/06/2023;13;3;suite;Todas las comidas;0;telefono;343;Spain;1;10725.0;0
+293;4/11/2022;11/11/2022;13;1;deluxe;ninguno;3;agencia;7;Canada;0;1950.0;0
+294;28/09/2023;16/05/2024;10;4;suite;Todas las comidas;0;agencia;231;Australia;0;10000.0;0
+295;23/06/2022;20/07/2022;3;3;deluxe;Todas las comidas;1;telefono;27;Germany;1;1485.0;0
+296;14/12/2024;30/04/2025;6;4;standard;Todas las comidas;2;telefono;137;USA;1;2640.0;0
+297;13/01/2024;1/03/2024;4;4;deluxe;Desayuno;2;agencia;48;Canada;0;2400.0;1
+298;22/09/2024;17/02/2025;4;4;standard;Desayuno;1;agencia;148;Germany;0;1600.0;1
+299;8/06/2022;22/03/2023;12;2;deluxe;ninguno;0;pagina web;287;Canada;0;3600.0;1
+300;26/09/2022;27/03/2023;9;1;suite;Todas las comidas;1;agencia;182;Germany;0;2250.0;0
+301;6/01/2023;6/08/2023;12;3;suite;Desayuno;2;app;212;USA;1;9900.0;1
+302;21/04/2024;13/01/2025;9;2;deluxe;Desayuno;1;app;267;Australia;1;2970.0;0
+303;7/08/2023;31/03/2024;7;4;suite;Todas las comidas;0;agencia;237;China;0;7000.0;0
+304;5/05/2023;13/04/2024;6;4;deluxe;Todas las comidas;0;agencia;344;Canada;0;3600.0;0
+305;21/06/2024;30/03/2025;2;3;deluxe;Almuerzo o Cena;0;app;282;China;0;900.0;0
+306;16/12/2024;22/06/2025;1;3;deluxe;Desayuno;0;agencia;188;Australia;0;450.0;0
+307;11/10/2022;1/08/2023;12;1;deluxe;ninguno;1;app;294;Canada;0;1800.0;0
+308;30/07/2022;5/12/2022;12;5;suite;ninguno;1;telefono;128;UK;0;15000.0;1
+309;25/11/2022;13/11/2023;11;1;deluxe;Todas las comidas;2;agencia;353;Brazil;0;1650.0;0
+310;7/07/2022;19/07/2022;9;4;standard;Todas las comidas;3;telefono;12;USA;0;3600.0;0
+311;29/04/2024;18/05/2024;11;3;standard;Todas las comidas;2;telefono;19;France;0;3300.0;0
+312;1/03/2024;10/07/2024;4;2;standard;Almuerzo o Cena;2;agencia;131;USA;0;800.0;0
+313;15/10/2023;3/05/2024;6;4;standard;Almuerzo o Cena;0;agencia;201;Germany;0;2400.0;0
+314;20/03/2022;29/05/2022;4;5;deluxe;Todas las comidas;1;agencia;70;India;0;3000.0;0
+315;7/07/2024;17/03/2025;8;2;suite;ninguno;1;pagina web;253;USA;0;4000.0;0
+316;9/06/2023;22/04/2024;14;3;standard;Desayuno;0;app;318;UK;0;4200.0;0
+317;14/08/2023;8/12/2023;4;3;standard;Almuerzo o Cena;1;pagina web;116;USA;0;1200.0;0
+318;4/05/2023;26/09/2023;4;1;deluxe;Todas las comidas;4;pagina web;145;UK;0;600.0;0
+319;20/10/2024;16/06/2025;11;4;suite;ninguno;1;agencia;239;Germany;0;11000.0;0
+320;20/08/2023;19/10/2023;10;2;deluxe;ninguno;0;telefono;60;France;0;3000.0;0
+321;3/05/2024;28/08/2024;13;1;standard;ninguno;2;telefono;117;UK;1;1430.0;0
+322;13/12/2024;19/02/2025;13;5;suite;ninguno;1;app;68;India;1;17875.0;0
+323;31/03/2022;28/06/2022;4;2;suite;Todas las comidas;2;telefono;89;Spain;0;2000.0;0
+324;3/02/2022;1/02/2023;12;1;deluxe;ninguno;3;telefono;363;France;0;1800.0;0
+325;1/08/2022;8/03/2023;7;3;suite;Almuerzo o Cena;0;agencia;219;USA;0;5250.0;1
+326;23/12/2023;21/06/2024;10;1;suite;Almuerzo o Cena;1;agencia;181;India;0;2500.0;0
+327;7/09/2024;29/11/2024;2;2;suite;Desayuno;1;agencia;83;UK;0;1000.0;0
+328;26/07/2024;3/10/2024;2;3;standard;Almuerzo o Cena;3;agencia;69;USA;0;600.0;0
+329;13/02/2023;22/12/2023;5;2;standard;Almuerzo o Cena;1;telefono;312;China;0;1000.0;0
+330;26/03/2024;24/01/2025;3;3;suite;Todas las comidas;2;telefono;304;USA;0;2250.0;0
+331;27/01/2023;10/08/2023;10;1;deluxe;Almuerzo o Cena;2;pagina web;195;Canada;0;1500.0;1
+332;14/07/2023;25/08/2023;9;1;standard;Almuerzo o Cena;1;app;42;Brazil;0;900.0;0
+333;19/06/2024;25/05/2025;5;2;deluxe;Almuerzo o Cena;1;agencia;340;India;0;1500.0;1
+334;15/10/2024;16/02/2025;7;4;deluxe;Almuerzo o Cena;0;pagina web;124;Brazil;0;4200.0;0
+335;11/06/2022;26/10/2022;3;3;deluxe;Desayuno;1;telefono;137;Canada;0;1350.0;0
+336;30/07/2022;5/10/2022;14;4;standard;Almuerzo o Cena;1;telefono;67;Spain;1;6160.0;1
+337;2/07/2024;1/10/2024;14;3;suite;Todas las comidas;3;agencia;91;India;0;10500.0;0
+338;21/12/2023;2/02/2024;1;2;deluxe;ninguno;1;telefono;43;Australia;0;300.0;0
+339;9/06/2024;3/12/2024;11;3;deluxe;ninguno;1;pagina web;177;Brazil;0;4950.0;0
+340;15/01/2024;6/11/2024;4;5;suite;Desayuno;2;pagina web;296;Germany;1;5500.0;0
+341;16/06/2024;27/07/2024;12;4;standard;Desayuno;1;pagina web;41;France;0;4800.0;0
+342;21/01/2024;29/10/2024;2;3;deluxe;Todas las comidas;1;pagina web;282;Australia;0;900.0;0
+343;11/11/2022;19/02/2023;12;3;suite;Todas las comidas;0;telefono;100;Canada;0;9000.0;1
+344;28/06/2024;29/03/2025;9;4;standard;Desayuno;1;telefono;274;Brazil;1;3960.0;0
+345;6/10/2023;26/10/2023;14;5;suite;Almuerzo o Cena;0;agencia;20;UK;1;19250.0;1
+346;23/02/2022;22/04/2022;7;3;suite;Desayuno;1;app;58;China;0;5250.0;0
+347;3/03/2024;3/08/2024;14;5;suite;ninguno;1;telefono;153;Spain;0;17500.0;1
+348;2/07/2024;12/11/2024;3;4;standard;Almuerzo o Cena;0;app;133;France;0;1200.0;0
+349;9/09/2022;7/09/2023;9;5;standard;ninguno;0;app;363;Germany;1;4950.0;1
+350;30/06/2024;11/04/2025;10;5;standard;Almuerzo o Cena;0;telefono;285;UK;0;5000.0;0
+351;18/08/2023;27/01/2024;4;2;deluxe;Desayuno;0;agencia;162;Canada;0;1200.0;0
+352;7/11/2024;12/08/2025;6;1;standard;ninguno;3;agencia;278;Germany;0;600.0;0
+353;30/04/2023;4/07/2023;3;4;deluxe;ninguno;1;telefono;65;China;0;1800.0;1
+354;26/01/2024;28/09/2024;7;3;deluxe;Desayuno;1;pagina web;246;UK;0;3150.0;0
+355;26/09/2023;9/05/2024;9;5;deluxe;Todas las comidas;1;app;226;Brazil;1;7425.0;0
+356;1/06/2022;21/05/2023;12;5;standard;Almuerzo o Cena;3;pagina web;354;India;0;6000.0;0
+357;12/08/2024;26/09/2024;6;4;suite;Almuerzo o Cena;1;agencia;45;China;0;6000.0;0
+358;8/01/2023;1/04/2023;1;1;standard;Todas las comidas;1;pagina web;83;UK;1;110.0;0
+359;27/11/2024;17/02/2025;14;3;standard;Almuerzo o Cena;4;agencia;82;Germany;0;4200.0;0
+360;23/10/2023;20/02/2024;12;3;suite;Desayuno;1;telefono;120;China;0;9000.0;0
+361;5/08/2023;16/05/2024;9;1;standard;Almuerzo o Cena;1;agencia;285;China;0;900.0;0
+362;17/07/2023;14/06/2024;14;1;standard;Almuerzo o Cena;0;pagina web;333;China;1;1540.0;1
+363;12/12/2022;7/12/2023;13;1;suite;Desayuno;2;agencia;360;Australia;1;3575.0;0
+364;23/11/2023;16/08/2024;3;3;suite;ninguno;3;pagina web;267;UK;1;2475.0;0
+365;4/04/2022;21/10/2022;13;1;suite;Almuerzo o Cena;3;agencia;200;Australia;0;3250.0;0
+366;3/05/2024;30/03/2025;6;4;suite;ninguno;1;app;331;China;0;6000.0;0
+367;17/08/2023;4/04/2024;5;3;suite;Almuerzo o Cena;1;app;231;France;0;3750.0;0
+368;11/04/2024;24/03/2025;12;4;deluxe;Todas las comidas;1;pagina web;347;USA;0;7200.0;1
+369;20/11/2022;30/04/2023;11;1;deluxe;Todas las comidas;1;app;161;India;0;1650.0;0
+370;22/02/2023;23/04/2023;12;2;deluxe;Desayuno;1;telefono;60;Canada;0;3600.0;0
+371;9/12/2023;26/03/2024;1;3;deluxe;Desayuno;0;telefono;108;China;0;450.0;0
+372;6/08/2022;13/06/2023;1;5;deluxe;Desayuno;2;app;311;UK;1;825.0;0
+373;2/07/2023;18/06/2024;10;5;deluxe;Desayuno;1;agencia;352;UK;0;7500.0;0
+374;14/04/2022;2/12/2022;9;5;deluxe;Todas las comidas;0;app;232;France;1;7425.0;0
+375;24/11/2022;21/01/2023;7;1;deluxe;Almuerzo o Cena;0;agencia;58;Germany;0;1050.0;0
+376;17/10/2024;14/09/2025;14;5;suite;Todas las comidas;1;app;332;Spain;0;17500.0;1
+377;15/10/2024;31/01/2025;12;5;standard;ninguno;0;app;108;China;1;6600.0;1
+378;25/07/2024;31/03/2025;5;1;standard;Desayuno;1;telefono;249;USA;0;500.0;0
+379;14/04/2022;5/10/2022;4;2;deluxe;Todas las comidas;0;app;174;Spain;0;1200.0;0
+380;17/01/2022;8/04/2022;5;3;standard;Todas las comidas;1;agencia;81;Spain;1;1650.0;0
+381;20/01/2024;18/09/2024;9;2;deluxe;Almuerzo o Cena;2;pagina web;242;Brazil;0;2700.0;0
+382;15/04/2022;10/11/2022;3;1;suite;Desayuno;3;telefono;209;China;1;825.0;0
+383;15/08/2023;29/07/2024;8;2;standard;Todas las comidas;0;app;349;China;0;1600.0;0
+384;27/07/2023;11/06/2024;7;5;suite;ninguno;1;agencia;320;UK;1;9625.0;0
+385;17/03/2024;20/12/2024;8;1;deluxe;Almuerzo o Cena;0;telefono;278;Germany;0;1200.0;1
+386;12/02/2023;21/05/2023;13;1;suite;Todas las comidas;0;pagina web;98;USA;0;3250.0;0
+387;21/03/2022;9/03/2023;3;3;standard;Almuerzo o Cena;2;app;353;China;0;900.0;0
+388;24/07/2024;1/06/2025;6;4;standard;Desayuno;1;telefono;312;Australia;0;2400.0;0
+389;15/10/2023;21/10/2023;4;5;standard;Todas las comidas;1;telefono;6;Australia;0;2000.0;0
+390;20/11/2023;24/03/2024;11;1;suite;Todas las comidas;0;telefono;125;India;1;3025.0;0
+391;4/02/2022;29/07/2022;4;4;deluxe;Almuerzo o Cena;1;pagina web;175;Brazil;0;2400.0;1
+392;23/09/2023;31/08/2024;11;3;suite;ninguno;2;app;343;Spain;0;8250.0;0
+393;12/04/2023;1/12/2023;3;2;suite;ninguno;0;app;233;Germany;0;1500.0;0
+394;9/12/2024;9/04/2025;13;5;suite;Todas las comidas;1;agencia;121;France;1;17875.0;0
+395;6/03/2022;22/09/2022;1;5;suite;ninguno;0;agencia;200;USA;1;1375.0;0
+396;22/06/2024;8/10/2024;6;4;deluxe;Todas las comidas;2;agencia;108;Brazil;0;3600.0;0
+397;22/02/2023;30/01/2024;3;3;deluxe;Todas las comidas;0;pagina web;342;Germany;0;1350.0;0
+398;28/11/2024;3/11/2025;14;4;standard;Almuerzo o Cena;0;app;340;China;1;6160.0;0
+399;11/02/2024;12/05/2024;8;5;deluxe;Desayuno;1;app;91;China;0;6000.0;0
+400;3/12/2023;31/08/2024;3;4;suite;Almuerzo o Cena;0;telefono;272;Australia;0;3000.0;0
+401;18/09/2024;19/06/2025;5;5;standard;Desayuno;0;telefono;274;China;1;2750.0;0
+402;4/09/2023;28/01/2024;11;5;standard;Almuerzo o Cena;1;telefono;146;France;0;5500.0;0
+403;28/09/2024;31/05/2025;11;4;deluxe;Todas las comidas;0;telefono;245;China;0;6600.0;0
+404;15/07/2023;26/07/2023;6;1;deluxe;ninguno;2;app;11;Brazil;0;900.0;0
+405;8/12/2023;7/06/2024;10;4;standard;Almuerzo o Cena;0;pagina web;182;Spain;0;4000.0;0
+406;11/06/2022;30/12/2022;9;3;deluxe;Todas las comidas;3;telefono;202;India;1;4455.0;0
+407;15/03/2023;29/11/2023;7;5;standard;Almuerzo o Cena;2;telefono;259;Germany;0;3500.0;0
+408;12/08/2022;24/03/2023;8;3;suite;Desayuno;0;agencia;224;USA;0;6000.0;0
+409;23/12/2024;29/06/2025;7;2;standard;Desayuno;1;pagina web;188;UK;0;1400.0;0
+410;26/04/2024;17/02/2025;14;5;deluxe;Todas las comidas;0;pagina web;297;Germany;1;11550.0;0
+411;11/01/2022;13/07/2022;14;1;suite;Desayuno;2;app;183;India;1;3850.0;0
+412;4/09/2024;3/10/2024;7;3;suite;Desayuno;3;telefono;29;Canada;0;5250.0;0
+413;8/08/2023;13/12/2023;9;1;suite;ninguno;2;pagina web;127;Australia;0;2250.0;0
+414;21/04/2023;5/01/2024;14;3;suite;ninguno;0;agencia;259;Brazil;0;10500.0;0
+415;27/12/2022;17/06/2023;2;5;standard;Todas las comidas;2;app;172;Germany;0;1000.0;0
+416;16/08/2023;5/04/2024;12;4;standard;ninguno;0;telefono;233;Australia;0;4800.0;0
+417;8/08/2022;24/05/2023;7;3;deluxe;Almuerzo o Cena;2;app;289;China;1;3465.0;0
+418;9/12/2024;30/01/2025;7;1;deluxe;Desayuno;1;app;52;Spain;0;1050.0;0
+419;30/01/2023;31/10/2023;9;1;standard;Almuerzo o Cena;0;agencia;274;India;1;990.0;0
+420;11/06/2023;23/08/2023;10;4;suite;Desayuno;1;pagina web;73;Canada;0;10000.0;0
+421;28/08/2023;19/10/2023;8;4;suite;Desayuno;0;agencia;52;Australia;0;8000.0;0
+422;10/04/2024;6/08/2024;14;2;deluxe;Almuerzo o Cena;0;pagina web;118;Brazil;0;4200.0;0
+423;15/07/2022;3/02/2023;1;1;standard;Desayuno;0;app;203;Canada;0;100.0;0
+424;24/05/2023;27/08/2023;6;1;standard;Almuerzo o Cena;0;app;95;France;1;660.0;0
+425;3/07/2024;23/05/2025;12;1;deluxe;Almuerzo o Cena;0;telefono;324;Australia;1;1980.0;0
+426;24/01/2022;10/05/2022;3;1;deluxe;Almuerzo o Cena;1;agencia;106;USA;0;450.0;1
+427;31/08/2022;18/01/2023;3;1;deluxe;Almuerzo o Cena;1;agencia;140;Brazil;0;450.0;0
+428;26/10/2024;31/05/2025;13;1;suite;Almuerzo o Cena;3;pagina web;217;Spain;0;3250.0;1
+429;23/01/2024;2/05/2024;1;4;suite;Desayuno;0;agencia;100;Germany;0;1000.0;1
+430;6/09/2024;25/03/2025;5;4;standard;Todas las comidas;2;telefono;200;Brazil;0;2000.0;1
+431;22/08/2024;18/09/2024;9;3;suite;Desayuno;1;agencia;27;Australia;0;6750.0;0
+432;17/06/2022;29/06/2022;2;5;suite;Todas las comidas;2;telefono;12;UK;0;2500.0;0
+433;18/08/2022;25/11/2022;13;5;standard;Desayuno;0;agencia;99;Germany;0;6500.0;1
+434;3/11/2023;20/08/2024;2;3;suite;Todas las comidas;0;pagina web;291;France;0;1500.0;0
+435;28/09/2024;3/08/2025;6;1;standard;Todas las comidas;1;pagina web;309;India;0;600.0;0
+436;28/09/2022;23/01/2023;6;2;suite;Todas las comidas;1;app;117;Australia;0;3000.0;0
+437;29/04/2022;8/08/2022;8;2;suite;Todas las comidas;0;telefono;101;USA;0;4000.0;0
+438;21/03/2024;9/07/2024;6;1;deluxe;ninguno;1;agencia;110;Australia;0;900.0;1
+439;30/05/2022;3/12/2022;10;1;standard;Todas las comidas;0;telefono;187;UK;0;1000.0;0
+440;4/05/2022;15/08/2022;12;2;standard;Todas las comidas;2;pagina web;103;Spain;0;2400.0;0
+441;17/04/2024;28/08/2024;7;5;standard;Desayuno;0;app;133;Canada;0;3500.0;0
+442;23/02/2024;31/12/2024;14;4;deluxe;Todas las comidas;0;app;312;UK;0;8400.0;0
+443;30/09/2022;11/02/2023;4;3;suite;Almuerzo o Cena;0;pagina web;134;Germany;1;3300.0;0
+444;15/03/2024;17/10/2024;8;5;suite;Desayuno;1;agencia;216;USA;0;10000.0;0
+445;16/02/2022;24/05/2022;2;4;deluxe;Todas las comidas;1;app;97;China;0;1200.0;0
+446;16/02/2024;29/05/2024;9;5;standard;Desayuno;1;app;103;Canada;0;4500.0;0
+447;14/11/2022;18/08/2023;9;1;deluxe;Desayuno;0;pagina web;277;USA;0;1350.0;0
+448;8/05/2024;2/06/2024;9;2;suite;ninguno;0;agencia;25;France;0;4500.0;1
+449;18/05/2022;12/05/2023;4;4;standard;ninguno;3;app;359;Australia;0;1600.0;0
+450;10/04/2022;15/09/2022;9;2;standard;ninguno;2;app;158;India;0;1800.0;0
+451;25/04/2023;2/10/2023;2;3;suite;Desayuno;1;pagina web;160;Germany;1;1650.0;1
+452;28/10/2024;17/08/2025;14;2;deluxe;Desayuno;1;telefono;293;Australia;0;4200.0;0
+453;19/10/2023;24/10/2023;13;4;standard;Almuerzo o Cena;2;agencia;5;China;1;5720.0;0
+454;29/03/2023;13/03/2024;12;4;deluxe;Almuerzo o Cena;1;telefono;350;USA;1;7920.0;1
+455;25/12/2022;9/11/2023;11;2;suite;Todas las comidas;1;app;319;USA;0;5500.0;1
+456;7/12/2023;12/10/2024;6;2;suite;Todas las comidas;1;telefono;310;Brazil;0;3000.0;1
+457;16/04/2024;4/04/2025;1;3;standard;Almuerzo o Cena;2;app;353;Germany;0;300.0;1
+458;27/08/2024;13/08/2025;4;1;standard;Desayuno;1;telefono;351;Germany;1;440.0;0
+459;6/08/2024;6/11/2024;6;4;standard;Todas las comidas;0;app;92;China;0;2400.0;0
+460;21/12/2024;25/05/2025;10;3;standard;Todas las comidas;0;agencia;155;Spain;1;3300.0;0
+461;21/02/2023;16/04/2023;8;3;deluxe;ninguno;0;app;54;Canada;0;3600.0;0
+462;9/07/2022;7/07/2023;13;5;suite;Desayuno;0;pagina web;363;Spain;0;16250.0;0
+463;12/02/2024;15/07/2024;2;3;suite;ninguno;1;pagina web;154;France;0;1500.0;0
+464;21/03/2023;15/07/2023;14;3;deluxe;Desayuno;0;telefono;116;Spain;0;6300.0;0
+465;1/02/2022;17/02/2022;2;5;standard;Desayuno;0;pagina web;16;India;0;1000.0;0
+466;12/05/2023;30/03/2024;1;2;suite;Desayuno;3;app;323;France;1;550.0;0
+467;21/10/2023;30/04/2024;1;2;deluxe;Todas las comidas;1;app;192;China;0;300.0;0
+468;6/01/2024;12/11/2024;3;5;deluxe;Almuerzo o Cena;2;telefono;311;China;0;2250.0;1
+469;15/10/2024;6/09/2025;10;5;deluxe;ninguno;1;app;326;Canada;0;7500.0;0
+470;21/02/2023;16/06/2023;13;5;deluxe;Almuerzo o Cena;0;app;115;USA;0;9750.0;0
+471;30/03/2023;14/05/2023;12;1;suite;Desayuno;0;pagina web;45;Spain;0;3000.0;1
+472;5/05/2024;15/11/2024;8;3;deluxe;Desayuno;1;agencia;194;Canada;0;3600.0;0
+473;17/04/2023;20/04/2023;3;2;deluxe;Desayuno;2;app;3;China;0;900.0;0
+474;23/11/2023;2/08/2024;5;1;deluxe;Todas las comidas;0;app;253;India;0;750.0;0
+475;11/12/2022;2/12/2023;9;2;suite;Almuerzo o Cena;0;agencia;356;Germany;0;4500.0;0
+476;27/09/2024;26/04/2025;3;3;standard;ninguno;0;pagina web;211;UK;0;900.0;0
+477;10/04/2022;4/12/2022;9;5;standard;Todas las comidas;3;agencia;238;France;0;4500.0;0
+478;20/05/2022;20/11/2022;14;3;suite;Desayuno;2;pagina web;184;France;0;10500.0;0
+479;1/11/2024;29/06/2025;11;2;deluxe;Almuerzo o Cena;1;pagina web;240;Australia;0;3300.0;0
+480;16/09/2024;1/02/2025;10;1;suite;Todas las comidas;0;pagina web;138;USA;1;2750.0;0
+481;25/12/2024;26/04/2025;5;5;suite;Todas las comidas;0;pagina web;122;USA;0;6250.0;0
+482;20/12/2024;7/10/2025;1;1;suite;Almuerzo o Cena;1;telefono;291;USA;0;250.0;0
+483;25/10/2024;10/05/2025;1;2;suite;Todas las comidas;2;agencia;197;UK;1;550.0;0
+484;17/07/2022;4/12/2022;6;4;suite;Desayuno;4;agencia;140;France;1;6600.0;0
+485;14/12/2024;10/09/2025;4;4;deluxe;Almuerzo o Cena;1;telefono;270;Brazil;1;2640.0;0
+486;11/06/2022;20/04/2023;1;2;deluxe;Todas las comidas;1;app;313;Australia;0;300.0;0
+487;14/05/2023;28/10/2023;3;5;suite;Desayuno;1;telefono;167;UK;1;4125.0;0
+488;6/03/2022;19/01/2023;14;3;standard;Todas las comidas;1;app;319;Brazil;1;4620.0;0
+489;1/09/2024;4/12/2024;4;4;standard;ninguno;0;agencia;94;UK;1;1760.0;0
+490;20/10/2024;12/09/2025;7;3;deluxe;Almuerzo o Cena;3;pagina web;327;China;0;3150.0;0
+491;29/03/2022;9/04/2022;14;5;standard;Desayuno;0;app;11;Spain;0;7000.0;0
+492;6/04/2022;11/07/2022;5;1;standard;Almuerzo o Cena;2;pagina web;96;Germany;0;500.0;0
+493;7/10/2023;25/10/2023;6;5;standard;Desayuno;0;agencia;18;Brazil;0;3000.0;0
+494;7/06/2022;22/03/2023;13;4;deluxe;Desayuno;2;agencia;288;Australia;0;7800.0;0
+495;7/03/2024;9/11/2024;4;5;suite;Almuerzo o Cena;0;app;247;Germany;1;5500.0;1
+496;10/06/2022;13/01/2023;14;5;suite;Almuerzo o Cena;1;pagina web;217;UK;0;17500.0;1
+497;14/06/2024;29/11/2024;5;2;standard;ninguno;1;telefono;168;Australia;0;1000.0;0
+498;23/03/2024;13/12/2024;2;1;deluxe;ninguno;2;telefono;265;India;0;300.0;0
+499;1/10/2024;22/07/2025;11;5;standard;Almuerzo o Cena;1;app;294;Brazil;0;5500.0;0
+500;16/01/2023;9/04/2023;3;2;suite;Todas las comidas;0;pagina web;83;Australia;0;1500.0;1
+501;28/08/2023;21/03/2024;11;2;standard;ninguno;1;pagina web;206;Spain;0;2200.0;0
+502;12/11/2022;9/01/2023;12;2;deluxe;Desayuno;2;app;58;Canada;0;3600.0;1
+503;9/01/2024;6/06/2024;3;5;standard;ninguno;0;pagina web;149;Spain;0;1500.0;0
+504;29/06/2024;23/07/2024;13;4;deluxe;Almuerzo o Cena;1;pagina web;24;Germany;1;8580.0;0
+505;28/06/2022;18/09/2022;1;2;standard;Todas las comidas;1;app;82;China;0;200.0;0
+506;15/11/2024;9/05/2025;6;1;deluxe;ninguno;2;pagina web;175;UK;1;990.0;0
+507;26/12/2023;21/09/2024;4;5;suite;ninguno;1;telefono;270;Brazil;1;5500.0;0
+508;26/01/2022;9/03/2022;9;1;deluxe;Todas las comidas;0;app;42;UK;0;1350.0;0
+509;13/05/2023;12/01/2024;7;4;suite;Desayuno;0;app;244;Germany;0;7000.0;0
+510;12/10/2022;19/12/2022;11;2;deluxe;Almuerzo o Cena;0;telefono;68;India;0;3300.0;0
+511;26/10/2022;4/09/2023;1;3;standard;Desayuno;1;app;313;Spain;0;300.0;1
+512;12/05/2024;15/09/2024;3;4;deluxe;Todas las comidas;2;pagina web;126;Canada;0;1800.0;0
+513;31/05/2023;29/08/2023;14;3;standard;Todas las comidas;1;agencia;90;India;0;4200.0;0
+514;8/08/2022;29/05/2023;1;4;standard;Almuerzo o Cena;1;pagina web;294;Brazil;0;400.0;0
+515;12/11/2023;17/10/2024;2;5;suite;Todas las comidas;3;telefono;340;India;0;2500.0;0
+516;17/11/2023;16/10/2024;12;2;deluxe;Desayuno;1;telefono;334;Canada;0;3600.0;0
+517;16/02/2023;2/11/2023;6;5;deluxe;Almuerzo o Cena;1;agencia;259;Brazil;0;4500.0;0
+518;16/10/2023;18/10/2023;14;2;deluxe;Todas las comidas;2;agencia;2;Canada;0;4200.0;0
+519;10/02/2024;22/01/2025;5;2;deluxe;Todas las comidas;3;telefono;347;UK;0;1500.0;0
+520;14/02/2023;23/11/2023;8;2;suite;Desayuno;1;pagina web;282;India;0;4000.0;0
+521;6/03/2023;5/08/2023;13;5;deluxe;Almuerzo o Cena;0;pagina web;152;Brazil;0;9750.0;0
+522;19/10/2024;9/08/2025;1;1;standard;Almuerzo o Cena;0;agencia;294;Spain;0;100.0;0
+523;12/11/2022;16/12/2022;7;1;suite;Todas las comidas;4;app;34;UK;0;1750.0;0
+524;8/07/2024;18/04/2025;5;5;suite;Todas las comidas;1;app;284;China;0;6250.0;0
+525;3/11/2024;7/07/2025;8;5;suite;Todas las comidas;2;pagina web;246;Canada;0;10000.0;0
+526;24/06/2022;18/01/2023;14;3;standard;Desayuno;2;telefono;208;Germany;0;4200.0;0
+527;1/04/2022;9/09/2022;9;2;suite;Todas las comidas;1;telefono;161;Brazil;0;4500.0;0
+528;5/08/2022;29/12/2022;6;4;standard;ninguno;2;telefono;146;France;0;2400.0;1
+529;11/11/2024;24/05/2025;10;2;suite;Desayuno;0;app;194;Canada;0;5000.0;0
+530;12/03/2024;12/11/2024;1;2;deluxe;Desayuno;0;telefono;245;USA;1;330.0;0
+531;15/09/2024;17/05/2025;13;5;standard;Almuerzo o Cena;2;app;244;UK;0;6500.0;0
+532;26/08/2022;1/09/2022;10;1;suite;Desayuno;4;telefono;6;Spain;0;2500.0;1
+533;4/12/2023;10/09/2024;12;1;deluxe;Desayuno;3;app;281;Canada;1;1980.0;0
+534;2/09/2024;31/08/2025;3;1;standard;Todas las comidas;1;app;363;Canada;1;330.0;0
+535;18/05/2022;12/02/2023;3;3;deluxe;ninguno;0;pagina web;270;USA;0;1350.0;0
+536;4/12/2023;20/01/2024;2;4;suite;ninguno;0;agencia;47;France;0;2000.0;0
+537;22/11/2024;17/03/2025;9;1;standard;Desayuno;0;telefono;115;China;0;900.0;0
+538;23/05/2024;22/04/2025;4;5;deluxe;Desayuno;1;app;334;Germany;0;3000.0;0
+539;17/01/2023;2/12/2023;8;3;suite;Todas las comidas;1;app;319;USA;0;6000.0;0
+540;9/02/2023;26/05/2023;11;3;deluxe;Todas las comidas;2;app;106;USA;0;4950.0;0
+541;16/03/2023;8/10/2023;9;4;standard;Almuerzo o Cena;2;pagina web;206;Australia;0;3600.0;0
+542;28/07/2022;6/06/2023;4;1;suite;Desayuno;0;telefono;313;Canada;0;1000.0;0
+543;8/02/2023;7/04/2023;7;4;deluxe;ninguno;0;telefono;58;India;1;4620.0;0
+544;16/12/2024;18/07/2025;3;5;suite;Almuerzo o Cena;2;app;214;Australia;0;3750.0;0
+545;14/03/2024;30/08/2024;13;5;suite;ninguno;1;telefono;169;Canada;0;16250.0;0
+546;26/07/2024;19/03/2025;11;2;suite;Desayuno;2;telefono;236;Australia;0;5500.0;0
+547;23/06/2022;24/06/2022;2;4;suite;Desayuno;1;telefono;1;UK;1;2200.0;0
+548;4/05/2023;4/07/2023;6;1;deluxe;ninguno;0;agencia;61;Canada;1;990.0;0
+549;17/10/2022;22/02/2023;14;5;suite;Todas las comidas;2;app;128;Australia;0;17500.0;0
+550;10/10/2022;22/12/2022;7;5;suite;Todas las comidas;3;app;73;Germany;0;8750.0;0
+551;23/09/2024;14/04/2025;1;4;suite;Desayuno;0;agencia;203;India;0;1000.0;0
+552;15/08/2023;18/11/2023;3;5;standard;Desayuno;3;telefono;95;India;0;1500.0;0
+553;20/04/2022;30/12/2022;13;5;deluxe;ninguno;2;app;254;Germany;0;9750.0;0
+554;4/02/2023;29/07/2023;11;4;deluxe;Todas las comidas;4;app;175;India;0;6600.0;0
+555;1/05/2024;8/01/2025;13;1;suite;Todas las comidas;3;app;252;Germany;0;3250.0;0
+556;19/06/2022;5/04/2023;6;2;suite;ninguno;1;agencia;290;Spain;0;3000.0;0
+557;8/03/2022;25/02/2023;3;5;deluxe;Desayuno;2;telefono;354;Germany;1;2475.0;0
+558;25/07/2024;11/01/2025;2;2;suite;Todas las comidas;0;pagina web;170;Australia;0;1000.0;0
+559;22/08/2022;30/07/2023;8;3;deluxe;Almuerzo o Cena;1;pagina web;342;India;0;3600.0;0
+560;24/03/2023;13/05/2023;5;4;deluxe;ninguno;2;agencia;50;Spain;1;3300.0;0
+561;8/03/2022;20/12/2022;11;5;deluxe;Almuerzo o Cena;2;telefono;287;UK;1;9075.0;0
+562;18/06/2024;28/10/2024;7;1;standard;Desayuno;2;agencia;132;Australia;0;700.0;0
+563;20/12/2023;10/11/2024;4;1;suite;Todas las comidas;0;agencia;326;Australia;0;1000.0;0
+564;13/10/2022;9/05/2023;13;2;standard;Desayuno;0;pagina web;208;Australia;0;2600.0;0
+565;20/12/2023;31/01/2024;12;4;suite;Almuerzo o Cena;2;agencia;42;Canada;0;12000.0;0
+566;23/08/2023;10/06/2024;1;2;deluxe;Almuerzo o Cena;2;pagina web;292;Germany;0;300.0;0
+567;22/04/2024;29/04/2024;13;2;standard;Almuerzo o Cena;0;agencia;7;Germany;0;2600.0;1
+568;27/05/2023;17/10/2023;14;3;standard;Almuerzo o Cena;0;agencia;143;Brazil;1;4620.0;1
+569;29/09/2024;2/03/2025;5;1;standard;Almuerzo o Cena;1;app;154;Brazil;1;550.0;0
+570;14/07/2024;9/11/2024;9;5;standard;ninguno;0;app;118;China;0;4500.0;0
+571;24/07/2023;19/11/2023;12;1;suite;Almuerzo o Cena;2;app;118;India;0;3000.0;0
+572;2/11/2023;11/01/2024;12;2;suite;ninguno;0;pagina web;70;India;0;6000.0;0
+573;4/01/2024;24/02/2024;5;4;standard;Todas las comidas;3;agencia;51;Brazil;0;2000.0;0
+574;10/03/2023;27/06/2023;8;5;deluxe;Almuerzo o Cena;0;telefono;109;Spain;0;6000.0;0
+575;23/11/2023;10/01/2024;4;5;suite;Desayuno;0;app;48;Canada;1;5500.0;0
+576;10/04/2022;13/04/2022;2;2;standard;ninguno;2;app;3;USA;0;400.0;0
+577;12/09/2022;4/06/2023;8;3;standard;Todas las comidas;0;app;265;USA;0;2400.0;1
+578;26/05/2024;29/07/2024;7;2;standard;Desayuno;1;telefono;64;Germany;0;1400.0;0
+579;16/07/2023;12/10/2023;2;3;standard;Almuerzo o Cena;2;telefono;88;UK;0;600.0;0
+580;1/02/2024;13/02/2024;1;1;suite;Desayuno;1;pagina web;12;Brazil;0;250.0;0
+581;18/09/2023;5/04/2024;12;4;suite;Desayuno;2;app;200;UK;0;12000.0;0
+582;14/07/2022;4/05/2023;4;3;standard;Desayuno;1;app;294;UK;0;1200.0;1
+583;29/09/2022;15/05/2023;6;3;suite;Desayuno;2;app;228;USA;0;4500.0;1
+584;17/01/2022;29/03/2022;9;5;suite;Almuerzo o Cena;1;pagina web;71;Brazil;0;11250.0;0
+585;28/09/2022;7/05/2023;3;4;deluxe;ninguno;1;agencia;221;Brazil;1;1980.0;0
+586;2/07/2022;17/01/2023;7;1;suite;ninguno;1;pagina web;199;Canada;1;1925.0;1
+587;23/01/2024;7/04/2024;1;3;deluxe;Desayuno;2;app;75;Germany;0;450.0;0
+588;20/10/2022;30/06/2023;5;2;standard;ninguno;1;agencia;253;India;0;1000.0;0
+589;21/12/2023;12/04/2024;1;4;suite;Desayuno;1;agencia;113;Brazil;0;1000.0;0
+590;25/06/2024;24/03/2025;8;2;standard;ninguno;0;pagina web;272;Germany;1;1760.0;1
+591;10/09/2022;3/08/2023;8;3;suite;Todas las comidas;0;telefono;327;Brazil;1;6600.0;0
+592;7/10/2023;10/03/2024;9;5;standard;Desayuno;0;telefono;155;UK;0;4500.0;0
+593;24/05/2023;4/03/2024;7;5;suite;Almuerzo o Cena;1;pagina web;285;Spain;1;9625.0;0
+594;25/02/2023;29/05/2023;5;1;suite;Desayuno;1;app;93;Spain;1;1375.0;0
+595;22/04/2022;13/06/2022;7;4;standard;Todas las comidas;0;app;52;UK;1;3080.0;1
+596;9/05/2023;9/05/2023;12;3;deluxe;ninguno;1;pagina web;0;Canada;0;5400.0;0
+597;11/10/2023;3/06/2024;14;1;standard;Todas las comidas;1;app;236;Canada;0;1400.0;0
+598;20/12/2022;8/08/2023;10;3;deluxe;ninguno;1;pagina web;231;Australia;0;4500.0;0
+599;19/05/2022;25/12/2022;5;5;standard;Almuerzo o Cena;2;agencia;220;USA;0;2500.0;0
+600;4/05/2022;9/03/2023;8;1;deluxe;Almuerzo o Cena;0;app;309;Brazil;0;1200.0;0
+601;3/04/2024;29/08/2024;3;2;standard;Desayuno;2;telefono;148;UK;0;600.0;0
+602;27/09/2023;24/10/2023;2;5;standard;Desayuno;2;agencia;27;China;0;1000.0;1
+603;1/11/2023;3/09/2024;10;1;deluxe;ninguno;3;telefono;307;Brazil;0;1500.0;0
+604;4/05/2023;11/02/2024;1;2;standard;Desayuno;0;pagina web;283;Brazil;1;220.0;1
+605;26/08/2022;21/03/2023;2;4;deluxe;ninguno;0;telefono;207;Germany;0;1200.0;0
+606;2/09/2022;4/03/2023;12;5;standard;Desayuno;1;pagina web;183;Germany;0;6000.0;0
+607;13/10/2024;24/12/2024;10;4;deluxe;Almuerzo o Cena;3;agencia;72;Canada;0;6000.0;0
+608;17/09/2022;14/06/2023;3;4;suite;Almuerzo o Cena;1;pagina web;270;USA;0;3000.0;1
+609;18/11/2023;22/10/2024;12;4;deluxe;Almuerzo o Cena;0;pagina web;339;Spain;0;7200.0;0
+610;7/06/2022;3/09/2022;2;3;deluxe;Todas las comidas;0;telefono;88;USA;0;900.0;0
+611;20/10/2024;21/05/2025;5;5;suite;Desayuno;1;telefono;213;Germany;0;6250.0;0
+612;7/06/2023;3/04/2024;9;5;standard;ninguno;1;agencia;301;China;0;4500.0;0
+613;6/01/2022;4/01/2023;7;4;standard;ninguno;1;agencia;363;USA;1;3080.0;0
+614;24/08/2024;3/03/2025;3;2;deluxe;Todas las comidas;2;agencia;191;Germany;0;900.0;0
+615;14/03/2022;5/11/2022;5;5;suite;Todas las comidas;0;agencia;236;Canada;1;6875.0;0
+616;24/05/2023;4/08/2023;11;2;deluxe;Almuerzo o Cena;1;telefono;72;UK;0;3300.0;0
+617;3/02/2024;30/12/2024;7;2;standard;ninguno;2;agencia;331;France;0;1400.0;0
+618;22/11/2024;23/02/2025;9;2;standard;Todas las comidas;1;pagina web;93;India;0;1800.0;0
+619;2/08/2023;16/10/2023;1;5;deluxe;Almuerzo o Cena;1;pagina web;75;China;0;750.0;0
+620;24/07/2024;23/06/2025;1;3;standard;Almuerzo o Cena;0;agencia;334;Spain;0;300.0;0
+621;15/09/2023;1/10/2023;6;2;suite;Desayuno;0;app;16;Canada;1;3300.0;0
+622;7/10/2024;25/06/2025;3;5;standard;Desayuno;2;agencia;261;USA;0;1500.0;0
+623;19/04/2024;17/06/2024;6;5;standard;Desayuno;2;telefono;59;USA;0;3000.0;0
+624;18/11/2023;7/12/2023;6;3;standard;Todas las comidas;2;telefono;19;UK;0;1800.0;0
+625;25/02/2023;9/04/2023;7;3;suite;Desayuno;1;app;43;India;0;5250.0;0
+626;3/05/2022;10/08/2022;3;2;standard;Almuerzo o Cena;3;pagina web;99;USA;0;600.0;0
+627;20/04/2023;1/02/2024;4;5;suite;Todas las comidas;1;telefono;287;India;0;5000.0;0
+628;23/06/2022;12/05/2023;8;3;suite;ninguno;0;agencia;323;Brazil;1;6600.0;0
+629;3/06/2022;14/05/2023;12;5;suite;ninguno;1;app;345;Germany;0;15000.0;1
+630;30/04/2023;5/10/2023;9;5;deluxe;Almuerzo o Cena;1;telefono;158;Brazil;0;6750.0;0
+631;31/10/2023;3/03/2024;9;3;deluxe;Todas las comidas;0;telefono;124;France;0;4050.0;0
+632;2/06/2022;8/01/2023;7;4;standard;Desayuno;2;pagina web;220;Germany;0;2800.0;1
+633;5/08/2022;20/11/2022;4;5;standard;Todas las comidas;1;app;107;Canada;1;2200.0;0
+634;12/04/2024;16/07/2024;9;5;standard;Almuerzo o Cena;1;agencia;95;India;1;4950.0;0
+635;24/09/2023;7/01/2024;11;3;deluxe;Almuerzo o Cena;3;pagina web;105;UK;0;4950.0;0
+636;19/11/2022;5/09/2023;6;1;suite;Almuerzo o Cena;1;pagina web;290;France;0;1500.0;1
+637;3/11/2023;5/11/2023;9;4;standard;ninguno;0;agencia;2;Canada;0;3600.0;0
+638;22/03/2024;27/11/2024;9;1;suite;ninguno;0;telefono;250;Spain;0;2250.0;0
+639;23/12/2022;7/02/2023;4;1;standard;Todas las comidas;0;app;46;China;0;400.0;0
+640;27/05/2023;20/06/2023;10;2;standard;Todas las comidas;0;pagina web;24;Germany;0;2000.0;0
+641;6/09/2022;30/09/2022;14;3;standard;ninguno;1;agencia;24;Germany;0;4200.0;0
+642;10/02/2023;11/09/2023;13;1;deluxe;Almuerzo o Cena;0;pagina web;213;Australia;1;2145.0;1
+643;15/06/2023;7/04/2024;2;3;standard;ninguno;0;pagina web;297;France;0;600.0;0
+644;27/06/2024;30/12/2024;10;1;standard;ninguno;1;telefono;186;UK;0;1000.0;0
+645;29/03/2022;24/02/2023;4;2;deluxe;ninguno;0;agencia;332;Australia;0;1200.0;0
+646;6/06/2024;16/08/2024;7;4;suite;Todas las comidas;1;app;71;USA;1;7700.0;0
+647;23/02/2024;10/12/2024;5;5;suite;Todas las comidas;0;agencia;291;Canada;0;6250.0;0
+648;16/03/2023;6/09/2023;12;5;standard;Almuerzo o Cena;0;telefono;174;India;0;6000.0;0
+649;1/11/2022;29/04/2023;12;5;standard;Desayuno;1;telefono;179;India;0;6000.0;0
+650;23/04/2024;22/01/2025;13;2;suite;Todas las comidas;0;pagina web;274;UK;0;6500.0;1
+651;27/07/2023;6/05/2024;4;1;deluxe;Desayuno;0;app;284;France;0;600.0;0
+652;12/12/2024;9/09/2025;2;5;standard;ninguno;2;app;271;Canada;1;1100.0;0
+653;9/09/2024;17/04/2025;4;4;suite;Todas las comidas;1;telefono;220;Australia;0;4000.0;0
+654;25/10/2024;2/01/2025;4;1;deluxe;Todas las comidas;0;telefono;69;Germany;0;600.0;0
+655;23/02/2022;27/02/2022;4;3;deluxe;Desayuno;0;pagina web;4;Spain;0;1800.0;0
+656;30/04/2022;13/02/2023;13;2;deluxe;Almuerzo o Cena;1;agencia;289;Germany;0;3900.0;0
+657;25/07/2022;30/12/2022;3;1;standard;Desayuno;1;telefono;158;China;1;330.0;0
+658;25/04/2022;28/10/2022;4;2;standard;Todas las comidas;1;telefono;186;Germany;0;800.0;1
+659;27/12/2022;24/10/2023;7;5;standard;Almuerzo o Cena;1;telefono;301;Australia;0;3500.0;0
+660;27/02/2022;19/01/2023;10;2;suite;Almuerzo o Cena;0;agencia;326;Australia;0;5000.0;0
+661;21/01/2023;7/12/2023;12;5;deluxe;Almuerzo o Cena;1;agencia;320;India;1;9900.0;0
+662;19/03/2022;8/01/2023;2;3;standard;ninguno;1;agencia;295;Australia;0;600.0;1
+663;25/03/2023;22/09/2023;2;1;standard;Todas las comidas;2;pagina web;181;Canada;0;200.0;0
+664;17/02/2023;9/11/2023;12;2;standard;Almuerzo o Cena;0;agencia;265;Canada;0;2400.0;0
+665;2/05/2022;12/06/2022;5;5;standard;Desayuno;2;agencia;41;UK;0;2500.0;0
+666;13/12/2024;11/03/2025;2;4;deluxe;ninguno;0;telefono;88;Brazil;0;1200.0;0
+667;26/07/2022;12/07/2023;9;2;deluxe;Almuerzo o Cena;2;telefono;351;Germany;0;2700.0;0
+668;19/11/2022;26/04/2023;9;2;suite;Todas las comidas;0;app;158;Canada;1;4950.0;0
+669;23/12/2022;26/04/2023;7;5;suite;Almuerzo o Cena;0;agencia;124;Australia;0;8750.0;0
+670;26/12/2022;5/06/2023;10;4;deluxe;Almuerzo o Cena;0;telefono;161;Germany;1;6600.0;1
+671;30/12/2022;20/01/2023;14;5;suite;ninguno;3;app;21;Australia;1;19250.0;0
+672;8/03/2022;7/03/2023;11;3;standard;Almuerzo o Cena;1;agencia;364;Australia;0;3300.0;0
+673;2/08/2022;23/02/2023;6;4;deluxe;Desayuno;0;telefono;205;UK;0;3600.0;0
+674;3/05/2023;17/11/2023;14;4;deluxe;Almuerzo o Cena;2;agencia;198;UK;0;8400.0;1
+675;19/11/2023;26/10/2024;8;3;deluxe;ninguno;0;telefono;342;France;1;3960.0;0
+676;27/05/2023;15/05/2024;1;4;suite;ninguno;0;telefono;354;Spain;0;1000.0;0
+677;10/08/2022;17/04/2023;4;3;suite;ninguno;3;pagina web;250;Brazil;0;3000.0;1
+678;16/06/2024;20/01/2025;9;1;suite;Todas las comidas;0;agencia;218;Brazil;0;2250.0;0
+679;6/10/2024;28/11/2024;8;3;deluxe;Almuerzo o Cena;3;app;53;UK;1;3960.0;0
+680;8/09/2024;27/12/2024;1;1;suite;Desayuno;2;agencia;110;India;0;250.0;0
+681;31/05/2022;4/12/2022;3;5;standard;Almuerzo o Cena;2;pagina web;187;Canada;0;1500.0;1
+682;19/06/2023;19/03/2024;6;3;standard;ninguno;1;telefono;274;Germany;0;1800.0;0
+683;8/02/2024;30/03/2024;5;5;standard;ninguno;1;pagina web;51;Canada;0;2500.0;1
+684;15/09/2024;12/05/2025;3;2;suite;ninguno;0;app;239;Germany;0;1500.0;0
+685;8/06/2024;4/01/2025;7;3;standard;ninguno;1;pagina web;210;Canada;0;2100.0;0
+686;25/02/2023;7/03/2023;6;2;standard;Todas las comidas;1;telefono;10;Spain;0;1200.0;0
+687;2/09/2023;8/04/2024;1;3;standard;ninguno;2;pagina web;219;Brazil;0;300.0;0
+688;2/10/2024;14/08/2025;4;1;standard;ninguno;2;telefono;316;USA;1;440.0;0
+689;25/05/2024;29/03/2025;8;1;standard;Almuerzo o Cena;2;app;308;France;1;880.0;0
+690;18/07/2022;18/05/2023;7;2;standard;Desayuno;2;agencia;304;Spain;0;1400.0;0
+691;17/06/2022;25/04/2023;10;1;deluxe;ninguno;0;telefono;312;Brazil;0;1500.0;0
+692;22/08/2024;21/07/2025;3;4;deluxe;Almuerzo o Cena;2;pagina web;333;China;0;1800.0;0
+693;4/03/2024;6/10/2024;3;2;standard;Almuerzo o Cena;2;app;216;Canada;0;600.0;0
+694;18/01/2023;22/08/2023;10;1;deluxe;ninguno;1;telefono;216;India;0;1500.0;0
+695;10/08/2024;11/06/2025;6;3;deluxe;Desayuno;0;telefono;305;Australia;0;2700.0;0
+696;7/05/2022;10/05/2022;1;4;standard;ninguno;0;pagina web;3;Canada;0;400.0;0
+697;27/04/2024;21/10/2024;9;5;suite;Desayuno;1;pagina web;177;Brazil;1;12375.0;0
+698;6/12/2024;7/04/2025;11;3;deluxe;Todas las comidas;1;agencia;122;India;0;4950.0;1
+699;5/09/2023;24/08/2024;11;3;standard;Todas las comidas;1;pagina web;354;China;0;3300.0;0
+700;24/11/2024;1/01/2025;9;4;suite;Desayuno;0;pagina web;38;India;0;9000.0;0
+701;21/12/2022;14/09/2023;14;4;standard;Desayuno;1;agencia;267;Germany;1;6160.0;0
+702;29/03/2022;9/03/2023;7;2;deluxe;ninguno;0;app;345;France;0;2100.0;0
+703;30/10/2022;23/01/2023;3;5;suite;Almuerzo o Cena;2;telefono;85;UK;1;4125.0;0
+704;28/06/2022;9/07/2022;6;3;deluxe;Todas las comidas;0;telefono;11;Spain;1;2970.0;0
+705;30/11/2024;28/12/2024;1;3;deluxe;ninguno;0;app;28;UK;0;450.0;0
+706;28/04/2024;16/10/2024;6;2;standard;Desayuno;2;pagina web;171;UK;0;1200.0;0
+707;26/07/2022;28/10/2022;10;3;deluxe;Almuerzo o Cena;2;app;94;Spain;0;4500.0;0
+708;24/02/2024;13/08/2024;6;2;suite;Todas las comidas;2;app;171;USA;1;3300.0;0
+709;19/12/2022;30/07/2023;12;3;deluxe;Todas las comidas;1;agencia;223;Australia;0;5400.0;0
+710;2/04/2024;2/11/2024;5;2;standard;Todas las comidas;0;telefono;214;France;1;1100.0;0
+711;11/04/2022;6/01/2023;7;5;suite;Todas las comidas;0;telefono;270;Canada;0;8750.0;0
+712;11/02/2022;11/03/2022;3;4;deluxe;Almuerzo o Cena;1;telefono;28;Spain;0;1800.0;0
+713;3/10/2024;1/02/2025;4;4;suite;ninguno;0;agencia;121;Germany;0;4000.0;0
+714;8/09/2023;23/09/2023;13;3;suite;Todas las comidas;3;telefono;15;Spain;0;9750.0;0
+715;3/05/2024;4/02/2025;8;1;suite;ninguno;1;agencia;277;India;1;2200.0;0
+716;9/03/2023;8/01/2024;12;1;deluxe;Todas las comidas;0;telefono;305;USA;0;1800.0;0
+717;21/11/2024;26/08/2025;11;5;standard;ninguno;1;telefono;278;China;0;5500.0;0
+718;6/04/2024;29/08/2024;11;4;standard;ninguno;0;agencia;145;France;0;4400.0;0
+719;16/02/2023;25/07/2023;9;4;standard;Desayuno;1;pagina web;159;India;1;3960.0;0
+720;14/04/2022;19/04/2022;8;5;deluxe;Desayuno;0;telefono;5;Canada;0;6000.0;0
+721;8/08/2024;11/07/2025;2;2;suite;Todas las comidas;1;pagina web;337;USA;1;1100.0;0
+722;11/05/2023;1/09/2023;9;3;deluxe;Todas las comidas;1;app;113;Germany;0;4050.0;1
+723;29/08/2024;12/10/2024;12;1;suite;Almuerzo o Cena;2;telefono;44;Germany;0;3000.0;0
+724;14/06/2023;28/08/2023;7;4;suite;ninguno;1;telefono;75;USA;1;7700.0;0
+725;2/03/2024;9/11/2024;14;1;standard;Desayuno;3;agencia;252;France;0;1400.0;0
+726;7/04/2023;10/02/2024;6;4;suite;Desayuno;1;telefono;309;Brazil;0;6000.0;0
+727;17/11/2024;18/06/2025;5;2;standard;ninguno;2;app;213;Germany;0;1000.0;0
+728;21/12/2022;18/12/2023;7;5;suite;ninguno;1;agencia;362;Spain;0;8750.0;0
+729;18/09/2023;29/08/2024;13;4;suite;Almuerzo o Cena;0;app;346;Brazil;0;13000.0;0
+730;16/12/2023;2/06/2024;7;2;deluxe;Almuerzo o Cena;0;agencia;169;India;0;2100.0;0
+731;11/09/2023;12/05/2024;13;1;suite;Todas las comidas;2;pagina web;244;USA;0;3250.0;0
+732;13/11/2024;21/02/2025;6;5;suite;Almuerzo o Cena;0;telefono;100;Spain;0;7500.0;0
+733;10/08/2022;6/10/2022;2;1;deluxe;ninguno;1;telefono;57;Spain;0;300.0;0
+734;28/10/2023;17/03/2024;2;3;deluxe;Almuerzo o Cena;0;telefono;141;France;0;900.0;0
+735;4/11/2022;29/03/2023;1;4;suite;Desayuno;1;pagina web;145;Australia;1;1100.0;0
+736;7/04/2024;10/08/2024;11;2;suite;Almuerzo o Cena;3;agencia;125;USA;0;5500.0;1
+737;15/10/2024;20/02/2025;10;3;deluxe;Almuerzo o Cena;0;app;128;Brazil;0;4500.0;0
+738;6/03/2024;8/04/2024;9;5;suite;ninguno;1;agencia;33;Canada;0;11250.0;0
+739;1/04/2023;9/05/2023;10;2;suite;Todas las comidas;1;telefono;38;China;0;5000.0;0
+740;7/09/2023;31/07/2024;4;1;standard;Desayuno;0;telefono;328;UK;0;400.0;0
+741;22/08/2024;11/01/2025;3;1;standard;Almuerzo o Cena;2;agencia;142;Canada;0;300.0;0
+742;2/07/2022;14/07/2022;4;2;standard;Almuerzo o Cena;1;agencia;12;Spain;0;800.0;0
+743;11/05/2024;17/11/2024;14;1;deluxe;Almuerzo o Cena;0;telefono;190;Australia;0;2100.0;1
+744;26/08/2023;18/06/2024;13;4;deluxe;ninguno;1;app;297;USA;0;7800.0;0
+745;26/05/2022;29/03/2023;7;2;deluxe;Desayuno;3;pagina web;307;Brazil;0;2100.0;0
+746;21/12/2024;17/06/2025;5;1;deluxe;Todas las comidas;0;pagina web;178;Germany;0;750.0;0
+747;9/10/2022;15/02/2023;9;5;standard;Almuerzo o Cena;1;app;129;Australia;0;4500.0;0
+748;26/07/2024;1/11/2024;2;3;standard;Almuerzo o Cena;2;agencia;98;UK;0;600.0;0
+749;25/09/2024;8/08/2025;8;1;deluxe;Desayuno;1;telefono;317;USA;1;1320.0;0
+750;10/01/2022;2/01/2023;4;3;deluxe;Almuerzo o Cena;2;agencia;357;Germany;1;1980.0;0
+751;21/11/2022;8/02/2023;4;3;deluxe;ninguno;1;agencia;79;Australia;1;1980.0;1
+752;7/06/2024;10/07/2024;4;1;suite;Todas las comidas;1;app;33;Brazil;1;1100.0;0
+753;4/09/2024;6/08/2025;14;3;deluxe;ninguno;1;pagina web;336;China;0;6300.0;0
+754;13/02/2023;28/07/2023;13;3;suite;Almuerzo o Cena;1;pagina web;165;Canada;0;9750.0;0
+755;23/12/2024;15/11/2025;3;4;standard;ninguno;0;pagina web;327;France;0;1200.0;0
+756;9/04/2023;26/07/2023;1;5;suite;Almuerzo o Cena;2;telefono;108;Germany;1;1375.0;0
+757;30/07/2022;10/11/2022;7;3;deluxe;Almuerzo o Cena;1;agencia;103;UK;0;3150.0;0
+758;4/04/2022;4/08/2022;11;2;deluxe;Almuerzo o Cena;1;app;122;China;0;3300.0;0
+759;9/12/2024;5/07/2025;3;5;deluxe;Todas las comidas;3;agencia;208;Canada;0;2250.0;0
+760;30/09/2024;12/08/2025;1;4;deluxe;Desayuno;1;agencia;316;Brazil;0;600.0;1
+761;9/02/2022;9/01/2023;6;3;standard;Desayuno;2;agencia;334;France;0;1800.0;1
+762;14/02/2022;9/02/2023;2;5;suite;Desayuno;0;pagina web;360;Canada;0;2500.0;0
+763;18/03/2022;18/03/2022;2;4;deluxe;Almuerzo o Cena;1;pagina web;0;Australia;0;1200.0;0
+764;9/04/2022;17/10/2022;13;1;suite;ninguno;0;pagina web;191;USA;1;3575.0;0
+765;26/08/2022;22/03/2023;5;1;deluxe;Todas las comidas;1;app;208;UK;0;750.0;0
+766;2/06/2023;18/03/2024;5;2;deluxe;Desayuno;1;agencia;290;USA;0;1500.0;0
+767;9/09/2023;16/01/2024;4;5;deluxe;ninguno;2;telefono;129;Australia;1;3300.0;0
+768;8/10/2022;23/10/2022;3;1;deluxe;ninguno;1;pagina web;15;Spain;1;495.0;0
+769;22/08/2022;19/08/2023;4;2;standard;Todas las comidas;0;agencia;362;Australia;0;800.0;0
+770;14/02/2023;3/03/2023;7;1;deluxe;Desayuno;0;telefono;17;Brazil;0;1050.0;0
+771;28/08/2023;30/12/2023;2;3;standard;ninguno;1;app;124;France;0;600.0;0
+772;11/09/2024;26/04/2025;12;2;deluxe;Desayuno;0;pagina web;227;USA;0;3600.0;0
+773;2/07/2022;14/07/2022;8;2;standard;Todas las comidas;1;agencia;12;UK;0;1600.0;0
+774;13/11/2024;30/01/2025;2;3;standard;ninguno;0;telefono;78;France;0;600.0;0
+775;24/07/2024;2/10/2024;8;2;deluxe;Almuerzo o Cena;2;app;70;USA;0;2400.0;1
+776;24/07/2022;13/09/2022;2;3;standard;ninguno;0;telefono;51;Canada;0;600.0;1
+777;3/10/2023;29/08/2024;10;3;deluxe;ninguno;0;pagina web;331;USA;0;4500.0;1
+778;20/01/2022;13/12/2022;1;1;standard;Desayuno;0;telefono;327;Canada;0;100.0;0
+779;15/06/2024;29/04/2025;9;4;suite;Almuerzo o Cena;1;pagina web;318;Canada;1;9900.0;1
+780;3/12/2023;13/01/2024;2;1;standard;ninguno;1;app;41;Brazil;0;200.0;0
+781;23/07/2024;14/02/2025;14;3;deluxe;Todas las comidas;1;app;206;Brazil;0;6300.0;1
+782;8/12/2022;11/10/2023;5;5;standard;Desayuno;0;pagina web;307;Germany;0;2500.0;0
+783;1/08/2022;4/05/2023;5;4;deluxe;Todas las comidas;1;app;276;Germany;0;3000.0;0
+784;17/02/2024;26/05/2024;10;3;deluxe;ninguno;0;agencia;99;India;1;4950.0;1
+785;26/09/2024;25/03/2025;7;4;standard;Todas las comidas;0;app;180;USA;0;2800.0;0
+786;10/05/2022;26/07/2022;7;3;deluxe;Almuerzo o Cena;1;pagina web;77;China;0;3150.0;0
+787;4/04/2023;31/08/2023;9;4;suite;Almuerzo o Cena;1;pagina web;149;Brazil;0;9000.0;0
+788;25/05/2023;8/07/2023;1;2;deluxe;Almuerzo o Cena;0;app;44;Germany;0;300.0;1
+789;22/04/2022;27/07/2022;4;5;standard;Desayuno;1;app;96;India;0;2000.0;0
+790;5/12/2022;11/03/2023;7;5;standard;Todas las comidas;0;telefono;96;France;0;3500.0;0
+791;9/11/2023;12/12/2023;1;1;deluxe;ninguno;2;agencia;33;China;0;150.0;1
+792;15/02/2024;29/05/2024;1;5;deluxe;Desayuno;0;pagina web;104;India;0;750.0;0
+793;28/06/2024;6/09/2024;10;2;suite;Todas las comidas;2;pagina web;70;India;0;5000.0;1
+794;4/07/2024;20/12/2024;3;4;deluxe;ninguno;2;app;169;USA;1;1980.0;0
+795;30/07/2022;1/02/2023;2;2;deluxe;Todas las comidas;0;pagina web;186;China;0;600.0;1
+796;1/01/2022;28/09/2022;9;4;standard;Almuerzo o Cena;0;agencia;270;India;0;3600.0;0
+797;30/11/2023;11/02/2024;9;5;deluxe;ninguno;0;agencia;73;India;0;6750.0;0
+798;11/11/2023;19/10/2024;8;1;suite;Todas las comidas;0;telefono;343;India;1;2200.0;0
+799;22/08/2022;5/07/2023;8;1;standard;Desayuno;0;pagina web;317;Canada;0;800.0;0
+800;29/12/2023;31/03/2024;8;2;suite;Almuerzo o Cena;2;telefono;93;UK;0;4000.0;0
+801;4/04/2022;2/01/2023;10;4;standard;Todas las comidas;1;agencia;273;Brazil;0;4000.0;0
+802;8/08/2022;18/03/2023;4;2;deluxe;Desayuno;1;agencia;222;UK;0;1200.0;0
+803;15/03/2024;5/10/2024;11;4;standard;Todas las comidas;0;agencia;204;Canada;0;4400.0;1
+804;9/08/2022;13/03/2023;10;2;deluxe;ninguno;0;pagina web;216;India;0;3000.0;0
+805;25/07/2024;2/12/2024;2;1;suite;Desayuno;3;app;130;USA;0;500.0;0
+806;22/12/2024;14/02/2025;10;3;suite;ninguno;3;app;54;Australia;0;7500.0;0
+807;16/09/2024;22/07/2025;14;1;suite;Desayuno;0;agencia;309;Germany;0;3500.0;0
+808;1/08/2022;16/02/2023;13;4;deluxe;Almuerzo o Cena;1;app;199;Brazil;0;7800.0;0
+809;24/05/2023;24/10/2023;10;1;deluxe;Todas las comidas;1;telefono;153;Spain;0;1500.0;1
+810;16/07/2024;25/03/2025;10;3;standard;Desayuno;2;app;252;Australia;1;3300.0;0
+811;15/11/2024;31/01/2025;8;2;deluxe;Almuerzo o Cena;1;agencia;77;France;0;2400.0;0
+812;6/03/2023;25/10/2023;9;5;suite;Almuerzo o Cena;2;telefono;233;Germany;0;11250.0;0
+813;31/12/2022;1/07/2023;12;2;suite;Almuerzo o Cena;1;pagina web;182;Canada;0;6000.0;1
+814;10/09/2024;5/05/2025;6;5;suite;Todas las comidas;1;telefono;237;Brazil;0;7500.0;0
+815;27/01/2022;5/09/2022;5;3;suite;ninguno;0;pagina web;221;Brazil;0;3750.0;0
+816;25/10/2022;16/01/2023;11;5;standard;ninguno;0;agencia;83;Spain;0;5500.0;0
+817;26/11/2022;6/12/2022;3;2;deluxe;Almuerzo o Cena;2;agencia;10;USA;0;900.0;0
+818;28/08/2023;28/01/2024;5;5;standard;ninguno;4;telefono;153;India;0;2500.0;0
+819;29/07/2022;18/05/2023;12;2;suite;Desayuno;0;app;293;France;0;6000.0;0
+820;12/11/2024;22/06/2025;3;1;suite;Almuerzo o Cena;1;pagina web;222;Brazil;0;750.0;0
+821;4/03/2024;3/10/2024;9;4;deluxe;Almuerzo o Cena;1;pagina web;213;USA;0;5400.0;0
+822;30/05/2023;15/02/2024;8;5;standard;Todas las comidas;2;agencia;261;Canada;0;4000.0;0
+823;7/02/2023;25/06/2023;12;5;suite;Desayuno;2;telefono;138;India;0;15000.0;0
+824;30/12/2022;8/09/2023;14;2;suite;ninguno;0;agencia;252;Germany;0;7000.0;0
+825;18/11/2024;3/05/2025;4;1;standard;Todas las comidas;0;pagina web;166;Brazil;0;400.0;0
+826;26/07/2023;7/09/2023;6;4;suite;Almuerzo o Cena;1;agencia;43;Germany;0;6000.0;0
+827;7/06/2023;26/03/2024;8;3;standard;Almuerzo o Cena;0;app;293;Germany;1;2640.0;0
+828;23/03/2022;26/02/2023;9;1;standard;Almuerzo o Cena;1;pagina web;340;Australia;0;900.0;0
+829;9/09/2023;8/07/2024;10;3;deluxe;Almuerzo o Cena;0;pagina web;303;Canada;1;4950.0;0
+830;12/12/2024;2/08/2025;10;1;standard;Desayuno;0;pagina web;233;China;0;1000.0;0
+831;23/11/2022;31/10/2023;13;1;deluxe;Todas las comidas;1;pagina web;342;Canada;0;1950.0;0
+832;30/03/2023;14/01/2024;3;2;standard;Almuerzo o Cena;0;telefono;290;Canada;0;600.0;0
+833;25/08/2023;4/11/2023;13;4;standard;Todas las comidas;0;pagina web;71;UK;0;5200.0;1
+834;10/12/2023;20/06/2024;10;2;deluxe;Desayuno;2;agencia;193;USA;0;3000.0;0
+835;20/10/2023;4/06/2024;14;3;deluxe;ninguno;0;app;228;Spain;0;6300.0;0
+836;3/08/2023;20/12/2023;8;2;standard;Almuerzo o Cena;0;app;139;India;0;1600.0;1
+837;31/03/2022;4/04/2022;10;5;deluxe;Desayuno;0;telefono;4;China;0;7500.0;0
+838;18/06/2022;20/12/2022;10;4;standard;Desayuno;2;pagina web;185;UK;1;4400.0;0
+839;8/03/2023;12/07/2023;5;2;suite;Desayuno;1;app;126;UK;0;2500.0;0
+840;26/02/2023;20/01/2024;5;5;suite;Todas las comidas;2;pagina web;328;Germany;0;6250.0;0
+841;18/02/2022;14/02/2023;8;4;deluxe;Almuerzo o Cena;1;pagina web;361;UK;0;4800.0;0
+842;31/05/2022;3/08/2022;4;3;standard;Desayuno;3;telefono;64;China;0;1200.0;0
+843;25/05/2022;22/10/2022;11;5;suite;Desayuno;3;telefono;150;Brazil;0;13750.0;0
+844;5/03/2024;15/11/2024;1;4;deluxe;Todas las comidas;1;app;255;Canada;0;600.0;0
+845;4/02/2022;13/05/2022;5;2;deluxe;ninguno;4;pagina web;98;Australia;1;1650.0;0
+846;10/05/2022;11/06/2022;7;1;suite;ninguno;2;pagina web;32;Canada;0;1750.0;0
+847;26/10/2024;13/07/2025;13;3;standard;Almuerzo o Cena;0;telefono;260;Australia;0;3900.0;1
+848;27/06/2022;12/06/2023;2;4;deluxe;Todas las comidas;2;app;350;Brazil;0;1200.0;1
+849;5/03/2022;28/07/2022;11;3;deluxe;Desayuno;1;agencia;145;Germany;0;4950.0;0
+850;11/03/2024;22/02/2025;9;5;suite;Almuerzo o Cena;0;agencia;348;Spain;0;11250.0;1
+851;4/02/2024;29/05/2024;5;2;standard;Desayuno;1;pagina web;115;USA;0;1000.0;0
+852;11/01/2022;23/12/2022;8;3;suite;Todas las comidas;2;pagina web;346;Spain;0;6000.0;0
+853;7/03/2023;16/07/2023;1;3;suite;Almuerzo o Cena;1;agencia;131;Brazil;0;750.0;0
+854;15/11/2024;19/07/2025;14;3;standard;Desayuno;2;agencia;246;France;0;4200.0;0
+855;2/06/2023;28/06/2023;4;4;standard;ninguno;1;agencia;26;Australia;0;1600.0;1
+856;22/04/2022;19/12/2022;7;4;suite;Todas las comidas;0;pagina web;241;Spain;0;7000.0;0
+857;18/05/2022;3/05/2023;12;2;deluxe;ninguno;2;agencia;350;Australia;1;3960.0;0
+858;24/09/2024;15/02/2025;2;5;deluxe;Almuerzo o Cena;1;agencia;144;France;0;1500.0;0
+859;24/07/2022;14/07/2023;4;4;deluxe;ninguno;1;agencia;355;Canada;0;2400.0;0
+860;22/09/2024;25/10/2024;2;5;deluxe;Almuerzo o Cena;0;telefono;33;Australia;0;1500.0;0
+861;9/11/2022;27/06/2023;5;2;suite;Almuerzo o Cena;1;telefono;230;Brazil;1;2750.0;0
+862;12/12/2022;22/06/2023;12;1;standard;Almuerzo o Cena;0;agencia;192;France;0;1200.0;0
+863;12/06/2024;3/03/2025;1;5;deluxe;Almuerzo o Cena;0;agencia;264;Canada;0;750.0;0
+864;9/09/2024;1/07/2025;6;3;deluxe;Todas las comidas;0;telefono;295;Spain;0;2700.0;0
+865;24/09/2024;23/08/2025;8;1;suite;ninguno;3;agencia;333;Australia;0;2000.0;1
+866;17/06/2022;26/08/2022;10;3;deluxe;Desayuno;3;agencia;70;Spain;0;4500.0;0
+867;6/06/2022;8/11/2022;5;5;suite;ninguno;1;pagina web;155;China;0;6250.0;0
+868;5/03/2022;13/09/2022;13;3;suite;Todas las comidas;1;agencia;192;USA;0;9750.0;0
+869;18/06/2023;9/02/2024;6;5;suite;Todas las comidas;0;agencia;236;Canada;0;7500.0;0
+870;14/03/2024;13/09/2024;7;3;standard;Almuerzo o Cena;0;agencia;183;India;0;2100.0;0
+871;23/10/2024;9/09/2025;3;3;suite;ninguno;2;app;321;Canada;1;2475.0;0
+872;25/10/2024;3/08/2025;2;4;standard;Desayuno;1;agencia;282;China;1;880.0;1
+873;15/10/2022;3/01/2023;7;4;deluxe;Desayuno;0;agencia;80;Australia;0;4200.0;0
+874;27/10/2022;2/04/2023;12;4;suite;Todas las comidas;1;telefono;157;USA;0;12000.0;0
+875;25/03/2023;17/08/2023;10;1;deluxe;Desayuno;1;pagina web;145;Spain;1;1650.0;0
+876;27/01/2024;31/10/2024;1;1;standard;ninguno;0;agencia;278;China;0;100.0;0
+877;10/01/2024;15/07/2024;13;3;deluxe;Todas las comidas;1;app;187;USA;1;6435.0;0
+878;23/03/2022;9/07/2022;1;2;suite;Almuerzo o Cena;0;pagina web;108;China;0;500.0;0
+879;15/07/2023;20/06/2024;2;3;suite;Almuerzo o Cena;3;agencia;341;Brazil;0;1500.0;1
+880;15/02/2024;25/07/2024;7;4;deluxe;ninguno;0;telefono;161;Brazil;0;4200.0;0
+881;2/04/2023;19/10/2023;14;3;suite;Todas las comidas;1;telefono;200;Canada;0;10500.0;1
+882;24/09/2024;15/04/2025;2;3;deluxe;ninguno;0;agencia;203;India;0;900.0;0
+883;6/12/2022;20/05/2023;7;4;standard;ninguno;1;telefono;165;France;0;2800.0;0
+884;4/11/2022;17/02/2023;5;4;standard;Desayuno;0;telefono;105;Australia;0;2000.0;1
+885;31/08/2022;23/01/2023;2;2;suite;Desayuno;1;app;145;Canada;0;1000.0;0
+886;21/08/2022;13/06/2023;3;4;deluxe;Todas las comidas;1;app;296;France;0;1800.0;0
+887;27/11/2022;10/01/2023;10;3;suite;Todas las comidas;0;pagina web;44;France;1;8250.0;0
+888;30/03/2022;23/09/2022;5;2;standard;Desayuno;0;agencia;177;China;1;1100.0;0
+889;22/03/2022;11/05/2022;3;5;suite;Desayuno;0;pagina web;50;Germany;0;3750.0;0
+890;13/06/2023;29/04/2024;4;2;standard;Todas las comidas;0;pagina web;321;Spain;0;800.0;0
+891;25/06/2022;15/05/2023;10;1;standard;Todas las comidas;0;app;324;India;0;1000.0;0
+892;16/12/2022;19/12/2022;8;3;standard;Todas las comidas;1;agencia;3;Australia;0;2400.0;0
+893;8/01/2023;25/10/2023;8;4;suite;Almuerzo o Cena;1;agencia;290;Canada;0;8000.0;0
+894;17/07/2024;4/04/2025;1;4;suite;ninguno;0;agencia;261;Brazil;0;1000.0;0
+895;29/02/2024;3/11/2024;13;4;standard;ninguno;0;pagina web;248;France;0;5200.0;1
+896;6/12/2024;27/12/2024;11;3;suite;Todas las comidas;0;agencia;21;Australia;0;8250.0;0
+897;17/07/2022;8/10/2022;7;5;standard;Todas las comidas;0;pagina web;83;China;0;3500.0;0
+898;27/10/2024;23/02/2025;10;1;standard;ninguno;1;app;119;Germany;0;1000.0;0
+899;3/01/2022;7/01/2022;10;3;suite;Todas las comidas;1;app;4;Canada;0;7500.0;0
+900;30/03/2022;4/06/2022;8;3;suite;Todas las comidas;1;agencia;66;India;1;6600.0;0
+901;20/02/2024;10/03/2024;9;2;deluxe;ninguno;0;app;19;Germany;0;2700.0;0
+902;6/06/2023;28/10/2023;13;3;deluxe;Desayuno;0;pagina web;144;Spain;0;5850.0;0
+903;16/04/2024;28/09/2024;2;4;deluxe;Desayuno;0;pagina web;165;USA;0;1200.0;0
+904;6/12/2024;19/05/2025;1;4;standard;ninguno;0;app;164;France;1;440.0;0
+905;9/10/2023;8/07/2024;6;5;deluxe;Almuerzo o Cena;2;pagina web;273;Germany;0;4500.0;0
+906;22/05/2024;17/03/2025;2;1;suite;Almuerzo o Cena;0;telefono;299;China;0;500.0;0
+907;17/05/2024;18/05/2024;14;5;suite;Almuerzo o Cena;1;telefono;1;Brazil;0;17500.0;1
+908;22/02/2023;19/12/2023;4;5;deluxe;Todas las comidas;0;agencia;300;Canada;0;3000.0;0
+909;17/09/2024;22/01/2025;7;2;deluxe;Almuerzo o Cena;1;telefono;127;Brazil;0;2100.0;0
+910;10/10/2022;1/12/2022;10;3;suite;ninguno;1;agencia;52;India;0;7500.0;0
+911;28/11/2022;14/08/2023;14;3;standard;Desayuno;2;app;259;Canada;1;4620.0;0
+912;17/04/2022;7/05/2022;7;2;standard;Todas las comidas;0;pagina web;20;UK;1;1540.0;0
+913;25/10/2022;5/05/2023;3;3;deluxe;Todas las comidas;3;pagina web;192;UK;0;1350.0;0
+914;23/06/2023;18/01/2024;14;4;standard;Almuerzo o Cena;3;pagina web;209;Australia;0;5600.0;1
+915;19/03/2022;10/07/2022;12;4;suite;Todas las comidas;1;app;113;Australia;1;13200.0;0
+916;3/12/2024;8/07/2025;13;5;deluxe;ninguno;2;agencia;217;India;0;9750.0;0
+917;18/06/2024;18/10/2024;1;5;standard;Desayuno;0;telefono;122;France;0;500.0;1
+918;10/03/2022;3/10/2022;7;3;suite;Desayuno;0;agencia;207;USA;0;5250.0;0
+919;7/01/2024;10/07/2024;14;3;standard;ninguno;0;agencia;185;UK;1;4620.0;0
+920;20/07/2023;24/10/2023;5;5;deluxe;Almuerzo o Cena;0;app;96;Brazil;0;3750.0;0
+921;15/02/2023;20/10/2023;4;2;suite;ninguno;2;pagina web;247;UK;0;2000.0;0
+922;6/08/2023;16/05/2024;6;4;suite;Almuerzo o Cena;0;telefono;284;Spain;0;6000.0;0
+923;9/04/2023;26/11/2023;13;4;suite;Desayuno;0;app;231;Brazil;0;13000.0;1
+924;10/01/2022;23/03/2022;9;3;deluxe;Desayuno;0;app;72;China;0;4050.0;0
+925;7/08/2022;14/03/2023;8;5;suite;ninguno;1;telefono;219;Canada;0;10000.0;0
+926;28/08/2022;25/06/2023;2;1;suite;Almuerzo o Cena;2;telefono;301;India;0;500.0;0
+927;12/02/2024;15/06/2024;3;5;suite;Todas las comidas;0;agencia;124;Canada;0;3750.0;0
+928;28/07/2024;17/10/2024;7;2;suite;Todas las comidas;0;pagina web;81;India;0;3500.0;1
+929;27/08/2022;26/03/2023;1;1;deluxe;ninguno;0;app;211;France;1;165.0;0
+930;16/04/2023;29/07/2023;3;3;deluxe;Todas las comidas;0;telefono;104;China;0;1350.0;0
+931;20/01/2022;18/12/2022;1;2;suite;Almuerzo o Cena;2;agencia;332;Spain;0;500.0;0
+932;10/07/2022;1/02/2023;9;2;deluxe;Almuerzo o Cena;2;pagina web;206;China;0;2700.0;0
+933;1/01/2023;16/03/2023;2;2;deluxe;Almuerzo o Cena;0;telefono;74;France;0;600.0;0
+934;6/07/2023;15/05/2024;7;3;standard;Desayuno;0;app;314;France;1;2310.0;0
+935;26/04/2023;18/10/2023;2;1;suite;Desayuno;1;telefono;175;France;0;500.0;0
+936;15/04/2023;27/01/2024;12;5;standard;Desayuno;0;telefono;287;Germany;0;6000.0;0
+937;7/08/2022;12/06/2023;4;1;standard;ninguno;1;app;309;Australia;0;400.0;0
+938;14/01/2022;16/11/2022;6;3;suite;ninguno;2;app;306;Canada;0;4500.0;0
+939;8/10/2023;24/03/2024;2;2;deluxe;Almuerzo o Cena;2;app;168;Germany;0;600.0;0
+940;12/11/2024;4/02/2025;1;4;deluxe;Todas las comidas;3;agencia;84;Australia;0;600.0;0
+941;20/09/2022;17/11/2022;1;3;standard;Todas las comidas;0;app;58;China;0;300.0;1
+942;8/03/2022;9/03/2022;3;1;suite;Almuerzo o Cena;2;app;1;Germany;0;750.0;0
+943;25/07/2024;28/03/2025;12;3;standard;Todas las comidas;1;telefono;246;USA;0;3600.0;1
+944;25/01/2022;3/04/2022;13;2;suite;Desayuno;1;app;68;Australia;0;6500.0;0
+945;26/07/2022;26/01/2023;13;5;deluxe;Almuerzo o Cena;0;telefono;184;Germany;0;9750.0;0
+946;23/06/2023;9/12/2023;13;5;standard;Almuerzo o Cena;0;app;169;Australia;0;6500.0;0
+947;4/12/2023;21/07/2024;11;3;deluxe;Desayuno;1;app;230;Brazil;0;4950.0;0
+948;8/03/2023;3/10/2023;10;4;deluxe;Almuerzo o Cena;2;telefono;209;Brazil;0;6000.0;0
+949;27/07/2023;26/10/2023;4;5;deluxe;Desayuno;0;agencia;91;Australia;0;3000.0;0
+950;14/04/2023;21/06/2023;13;1;standard;Almuerzo o Cena;0;agencia;68;China;0;1300.0;0
+951;4/06/2024;25/09/2024;12;5;deluxe;Desayuno;1;agencia;113;Germany;0;9000.0;0
+952;26/08/2024;26/10/2024;3;4;standard;Desayuno;1;app;61;India;1;1320.0;0
+953;3/10/2022;9/02/2023;13;1;suite;Almuerzo o Cena;3;app;129;Spain;0;3250.0;0
+954;29/05/2023;11/09/2023;12;2;suite;ninguno;1;app;105;UK;0;6000.0;0
+955;1/12/2022;9/02/2023;6;3;standard;Desayuno;3;telefono;70;India;0;1800.0;0
+956;17/07/2022;10/05/2023;12;1;deluxe;Almuerzo o Cena;1;telefono;297;Canada;1;1980.0;0
+957;8/01/2024;16/04/2024;8;4;suite;Almuerzo o Cena;0;telefono;99;USA;1;8800.0;0
+958;23/04/2024;14/08/2024;11;5;standard;Almuerzo o Cena;0;agencia;113;Australia;0;5500.0;0
+959;24/12/2022;17/11/2023;3;4;deluxe;Almuerzo o Cena;2;telefono;328;China;0;1800.0;0
+960;25/09/2024;3/11/2024;10;3;suite;Todas las comidas;1;pagina web;39;Brazil;0;7500.0;0
+961;10/08/2023;25/01/2024;1;3;deluxe;Desayuno;1;agencia;168;Canada;1;495.0;0
+962;13/05/2024;29/04/2025;12;5;suite;Todas las comidas;1;pagina web;351;UK;0;15000.0;0
+963;28/11/2022;23/08/2023;12;1;deluxe;Desayuno;1;telefono;268;Canada;0;1800.0;0
+964;20/08/2023;27/05/2024;13;1;suite;Almuerzo o Cena;1;app;281;Spain;0;3250.0;1
+965;30/06/2024;14/08/2024;2;2;deluxe;Todas las comidas;2;app;45;Germany;0;600.0;0
+966;12/01/2023;16/07/2023;6;2;standard;Desayuno;1;agencia;185;Spain;0;1200.0;0
+967;13/06/2022;24/09/2022;2;1;standard;Desayuno;1;app;103;UK;0;200.0;0
+968;15/07/2022;1/10/2022;4;2;standard;Todas las comidas;3;pagina web;78;USA;0;800.0;0
+969;24/03/2024;12/02/2025;7;1;suite;ninguno;1;pagina web;325;Spain;0;1750.0;1
+970;15/11/2022;3/10/2023;11;1;standard;Todas las comidas;3;telefono;322;France;1;1210.0;0
+971;22/05/2023;28/09/2023;5;5;suite;Almuerzo o Cena;1;app;129;Germany;0;6250.0;1
+972;26/09/2022;5/08/2023;14;5;suite;Desayuno;0;pagina web;313;USA;0;17500.0;0
+973;1/01/2024;11/02/2024;9;3;deluxe;Todas las comidas;0;app;41;China;0;4050.0;0
+974;12/07/2023;10/03/2024;2;2;suite;Todas las comidas;2;agencia;242;China;0;1000.0;0
+975;29/12/2022;5/10/2023;1;5;suite;Todas las comidas;1;app;280;China;0;1250.0;0
+976;29/12/2024;3/09/2025;1;5;deluxe;Almuerzo o Cena;1;app;248;China;0;750.0;0
+977;11/04/2023;8/05/2023;13;1;standard;Todas las comidas;1;telefono;27;Canada;1;1430.0;0
+978;24/04/2024;13/11/2024;2;5;deluxe;Desayuno;0;telefono;203;USA;1;1650.0;0
+979;1/01/2022;4/08/2022;1;5;suite;Desayuno;2;telefono;215;Spain;0;1250.0;0
+980;18/08/2024;13/09/2024;3;2;suite;ninguno;2;app;26;India;0;1500.0;0
+981;6/09/2023;17/05/2024;13;4;standard;Todas las comidas;1;telefono;254;Australia;0;5200.0;0
+982;19/04/2023;6/03/2024;1;1;standard;Almuerzo o Cena;0;agencia;322;Brazil;1;110.0;0
+983;14/06/2024;22/04/2025;3;3;deluxe;Desayuno;1;agencia;312;Brazil;0;1350.0;0
+984;14/02/2024;6/08/2024;6;3;standard;Almuerzo o Cena;2;pagina web;174;Brazil;0;1800.0;1
+985;6/05/2023;7/12/2023;2;4;suite;Almuerzo o Cena;1;telefono;215;China;0;2000.0;1
+986;5/07/2023;12/08/2023;9;4;deluxe;Desayuno;0;pagina web;38;Germany;0;5400.0;0
+987;7/10/2022;22/12/2022;12;3;deluxe;ninguno;2;app;76;Australia;0;5400.0;0
+988;16/07/2024;10/06/2025;8;2;deluxe;Todas las comidas;0;agencia;329;Canada;1;2640.0;0
+989;9/02/2022;9/04/2022;7;3;standard;ninguno;0;pagina web;59;Germany;0;2100.0;0
+990;29/07/2022;24/04/2023;1;1;deluxe;Almuerzo o Cena;4;agencia;269;India;0;150.0;0
+991;17/01/2022;10/01/2023;8;5;standard;ninguno;1;agencia;358;USA;0;4000.0;0
+992;7/10/2024;18/12/2024;1;5;standard;Almuerzo o Cena;3;app;72;Spain;0;500.0;0
+993;17/10/2024;11/09/2025;10;5;deluxe;Todas las comidas;0;pagina web;329;Canada;0;7500.0;0
+994;14/06/2022;21/01/2023;1;3;standard;ninguno;1;telefono;221;Brazil;0;300.0;0
+995;27/05/2022;20/11/2022;11;4;suite;Todas las comidas;0;agencia;177;France;0;11000.0;0
+996;28/05/2023;5/03/2024;4;1;deluxe;ninguno;0;pagina web;282;France;0;600.0;0
+997;28/02/2024;12/11/2024;4;1;deluxe;Desayuno;3;pagina web;258;France;0;600.0;0
+998;1/08/2024;29/01/2025;7;2;suite;ninguno;1;agencia;181;India;0;3500.0;0
+999;7/03/2024;24/10/2024;4;2;suite;Almuerzo o Cena;0;telefono;231;Germany;1;2200.0;1
+1000;28/03/2022;21/04/2022;11;4;suite;ninguno;1;telefono;24;India;0;11000.0;0
