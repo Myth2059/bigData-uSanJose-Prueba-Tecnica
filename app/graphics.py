@@ -58,7 +58,7 @@ def plot_pred_cancel_rate_by_antelacion(df, modelo, feature_columns):
 
 def plot_pred_heatmap_tipo_plan(df, modelo, feature_columns):
     """
-    Heatmap predictivo de cancelaciones por Tipo de Cuarto vs Plan de Comidas.
+    Muestra un heatmap de probabilidad de cancelación por tipo de cuarto y plan.
     """
     tipos = df["tipo_cuarto"].unique()
     planes = df["plan_de_comidas"].unique()
@@ -66,9 +66,12 @@ def plot_pred_heatmap_tipo_plan(df, modelo, feature_columns):
 
     for t in tipos:
         for p in planes:
+            # Preparar escenario con tipo de cuarto y plan fijos
             df_temp = df.copy()
             df_temp["tipo_cuarto"] = t
             df_temp["plan_de_comidas"] = p
+
+            # Rellenar otras columnas con valores representativos
             for col in df.columns:
                 if col in ["tipo_cuarto", "plan_de_comidas", "cancelado"]:
                     continue
@@ -76,13 +79,17 @@ def plot_pred_heatmap_tipo_plan(df, modelo, feature_columns):
                     df_temp[col] = df[col].mode()[0]
                 else:
                     df_temp[col] = df[col].mean()
+
+            # Codificar, alinear y predecir
             X = pd.get_dummies(df_temp)
             X = X.reindex(columns=feature_columns, fill_value=0)
             proba = modelo.predict_proba(X)[:, 1].mean()
             matrix.loc[t, p] = proba
 
+    # Mostrar matriz en consola
     print(matrix.to_string())
 
+    # Dibujar heatmap
     plt.figure(figsize=(8, 6))
     sns.heatmap(
         matrix,
@@ -99,14 +106,17 @@ def plot_pred_heatmap_tipo_plan(df, modelo, feature_columns):
 
 def plot_pred_cancel_rate_by_canal(df, modelo, feature_columns):
     """
-    Gráfico de barras predictivo: Probabilidad de cancelación por Canal de Reserva.
+    Dibuja un gráfico de barras con la probabilidad de cancelación por canal.
     """
     canales = df["canal_de_reserva"].unique()
     datos = []
 
     for c in canales:
+        # Fijar canal de reserva en el escenario
         df_temp = df.copy()
         df_temp["canal_de_reserva"] = c
+
+        # Rellenar el resto con moda o media
         for col in df.columns:
             if col in ["canal_de_reserva", "cancelado"]:
                 continue
@@ -114,16 +124,18 @@ def plot_pred_cancel_rate_by_canal(df, modelo, feature_columns):
                 df_temp[col] = df[col].mode()[0]
             else:
                 df_temp[col] = df[col].mean()
+
+        # Codificar, alinear y predecir
         X = pd.get_dummies(df_temp)
         X = X.reindex(columns=feature_columns, fill_value=0)
         proba = modelo.predict_proba(X)[:, 1].mean()
         datos.append({"canal": c, "prob_cancel": proba})
 
-    df_bar = pd.DataFrame(datos)
-
     # Mostrar tabla
+    df_bar = pd.DataFrame(datos)
     print(df_bar.to_string(index=False))
 
+    # Graficar barras
     plt.figure(figsize=(8, 6))
     sns.barplot(data=df_bar, x="canal", y="prob_cancel")
     plt.title("Probabilidad de Cancelación por Canal de Reserva")
@@ -135,27 +147,27 @@ def plot_pred_cancel_rate_by_canal(df, modelo, feature_columns):
 
 def plot_pred_price_vs_invitados(df, modelo, feature_columns):
     """
-    Scatter predictivo: Precio Total vs Invitados, coloreado por probabilidad de cancelación.
+    Genera un scatter donde el color indica la probabilidad de cancelación.
     """
-    # Codificar todo el dataframe y alinear
+    # Codificar y alinear todos los datos
     X_full = pd.get_dummies(df)
     X_full = X_full.reindex(columns=feature_columns, fill_value=0)
     proba = modelo.predict_proba(X_full)[:, 1]
+
+    # Preparar DataFrame de invitados, precio y probabilidad
     df_scatter = df[["invitados", "precio_total"]].copy()
     df_scatter["prob_cancel"] = proba
 
     # Mostrar tabla
-
     print(df_scatter.to_string(index=False))
 
-    # Graficar
+    # Dibujar scatter plot
     plt.figure(figsize=(10, 6))
     scatter = plt.scatter(
         df["invitados"], df["precio_total"], c=proba, cmap="viridis", alpha=0.7
     )
-
     plt.colorbar(scatter, label="Probabilidad de Cancelación")
     plt.title("Precio Total vs Invitados (coloreado por prob. de cancelar)")
     plt.xlabel("Número de Invitados")
-    plt.ylabel("Precio Total en dolares")
+    plt.ylabel("Precio Total en dólares")
     plt.show()
